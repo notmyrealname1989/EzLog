@@ -1,1 +1,0 @@
-type=platform_request&id=2714139&action=accept&params[from_id]=533253664&params[req_type]=Adopt%20Me!&params[app_id]=15015611585&params[is_invite]=1&post_form_id=f8e0bcbdf5dfc695429fbdf8e04bdfba
