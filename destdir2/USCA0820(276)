@@ -1,7 +1,0 @@
-stArray[0][2].presName)</script></span></A></TD>
-						<TD id="FTT3" onClick="showForecastTabMapTypefor(3);return false" ALIGN="LEFT" WIDTH="25%" CLASS="blkVerdanaText10"> <script>if(gnSiteMode == 'normal'){if (mw_fcstArray[0][3]) document.write('<IMG SRC="'+mw_fcstArray[0][3].thumbURL+'" WIDTH="76" HEIGHT="56" BORDER="0" ALT="" name="mw_thumbThree">'); else document.write('<IMG SRC="http://image.weather.com/web/blank.gif" WIDTH="76" HEIGHT="56" BORDER="0" ALT="" name="mw_thumbThree">');}else{}</script> <BR>
-						<span id="FTL3" onClick="showForecastTabMapTypefor(3);return false"><script>if (mw_fcstArray[0][3]) document.write(mw_fcstArray[0][3].presName)</script></span></A></TD>
-					</TR>
-				</TABLE>
-			</div>			
-			<!-- End Fore
