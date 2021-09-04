@@ -1,0 +1,29 @@
+"0" ALT=""><BR>
+			
+
+						<table bgcolor="#FFFFFF" width="90%" height="75" style="padding: 0px 0px 0px 0px; border: 1px solid #dddddd" align="center">
+						<tr><td align="center">
+						<img src="http://image.weather.com/web/common/wxicons/31/29.gif?12122006" alt="Partly Cloudy" width="31" height="31" border="0"><br>
+						<font CLASS="blueFont10">Partly Cloudy</font></td>
+						<td valign="middle" align="center"><font CLASS="blueVerdanaText11">Low<br>
+						<font class="obsTemp"><nobr>53&deg; F</nobr></font></td>
+			          </tr>
+					 </table>
+									<!-- Precipitation line will always be displayed -->
+						 <table border=0 cellpadding=0 cellspacing=0 width="90%">
+						  <TR>
+						   <TD valign="top"><IMG SRC="http://image.weather.com/web/blank.gif" WIDTH="1" HEIGHT="5" BORDER="0" ALT=""></td>
+						  </tr>
+						  <TR>
+						   <TD valign="top" width="50%" class="blueVerdanaText11" align="right">Precip:</td>
+						   <TD valign="top" class="blueVerdanaText11" align="center">&nbsp;</td>
+						   <TD valign="top" width="50%" class="blueVerdanaText11" align="left">0%</td>
+						  </tr>
+						  <TR>
+						   <TD valign="top"><IMG SRC="http://image.weather.com/web/blank.gif" WIDTH="1" HEIGHT="5" BORDER="0" ALT=""></td>
+						  </tr>
+						</TABLE>
+						</DIV>
+						 <table border=0 cellpadding=0 cellspacing=0 width="100%"  bgcolor="#FFFFFF">
+						  <TR>
+						   	<TD valig

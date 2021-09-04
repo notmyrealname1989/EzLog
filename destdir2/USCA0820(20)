@@ -1,0 +1,67 @@
+ereItems.length;i++){
+		var severeSplit = sNSevereItems[i].split("^");
+		severeDivData += '<A id="weather_news_'+i+'" href="'+severeSplit[1]+'?from=secondarynav">'+severeSplit[0]+'</A>';
+			if(severeSplit[2] == 'yes'){
+			severeDivData += '<span id="newicon">NEW!</span>';
+			}
+		}
+		writeDiv('hdMI1', severeDivData);
+		}
+}
+</script>
+<!-- END Tabset dailytraveler_nobanner_usen -->
+
+
+
+
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="768">
+
+<TR>
+
+<TD VALIGN="TOP">
+
+<DIV id="bodyContainer">
+
+
+
+
+
+
+
+
+
+
+
+<script>
+var gotLocIDCookie = GetCookie("LocID");
+//set the cookie with the newLocPres locid object.
+var expdate = new Date ();
+FixCookieDate(expdate);
+expdate.setTime(expdate.getTime() + (24*60*60*1000*365));
+var typeInfo = 1;
+var newLocID = 'USCA0820';
+if(typeInfo == 1 || typeInfo == 4)
+{
+SetCookie ("LocID",newLocID, expdate, "/", ".weather.com");
+}
+else
+{
+SetCookie ("LocID",newLocID+":"+typeInfo, expdate, "/", ".weather.com");
+}
+
+</script>
+
+
+
+<script>
+var verticalBannerImage = "travel_flights.jpg";
+var bannerImage = "http://i.imwx.com/web/common/banners/summer/basic.jpg";
+if(bannerImage.indexOf('basic.jpg') != -1 && verticalBannerImage.length > 1){
+bannerImage = "http://i.imwx.com/web/common/banners/summer/travel_flights.jpg";
+document.getElementById("MainHeaderImage").style.backgroundImage = "URL("+bannerImage+")";
+}
+
+var pstr = "travel_flights_&_business_travel"; 
+
+hbBMDefau

@@ -1,0 +1,31 @@
+ent.getElementById('CTT'+id).style.color = '';
+				document.getElementById('CTL'+id).style.textDecoration = "";
+			}else{
+				document.getElementById('CTT'+i).style.cursor='pointer';
+				document.getElementById('CTL'+i).style.cursor='pointer';
+				document.getElementById('CTT'+i).style.color = '#3333FF';
+				document.getElementById('CTL'+i).style.textDecoration = "underline";
+			}
+		}
+	}	
+	
+	function handleCurrentTabMapClick(){
+		if(activeCurrentTabMapIndx < 2) {/*this is handled by goToInteractiveMapPage() function*/}
+		else {	window.location = mw_currArray[activeCurrentTabMapIndx].destURL  + "&from=36hour_map_large";	}
+	}
+	function handlClassicLinkClick() {
+		var moreLocalMapsLinkURL = "/outlook/travel/businesstraveler/map/" + "USCA0820";
+		if(moreLocalMapsLinkURL.indexOf("?") != -1) {
+			// remove the extra parameter as additional parameters are taking
+			// users to non-default (first) large map.  More local maps link
+			// should always take users to the first map in the collection
+			moreLocalMapsLinkURL = moreLocalMapsLinkURL.substring(0, moreLocalMapsLinkURL.indexOf("?"));
+		}
+		moreLocalMapsLinkURL = moreLocalMapsLinkURL + "?from=36hour_map";
+		window.location = moreLocalMapsLinkURL;
+	}	
+	function activateCurrentTab(){
+		deActivateForecastTab();
+		mw_showHide("currentTab","block");		
+		mw_showHide("currentTabPromoLinks","block");			
+		mw_showHide("currentTabThumnail","bloc

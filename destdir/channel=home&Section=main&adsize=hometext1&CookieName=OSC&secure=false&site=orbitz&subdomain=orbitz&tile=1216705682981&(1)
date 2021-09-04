@@ -1,0 +1,13 @@
+var copy = 'Order your free Texas travel guide now!';
+var price = 'Save';
+var url = 'http://www.traveltex.com/travelguide/OrderForm.aspx?c=1'
+var target = '_blank';
+// target is '_top' for internal links, '_blank' for external links
+//+++++++++++++++++++++++++++++++++++++
+
+var ad = '';
+ad += '<tr>\n';
+ad += '<td colspan="2"><a href="http://www.revresda.com/event.ng/Type=click&FlightID=37740&AdID=75399&TargetID=12470&Segments=65,3724,4865,4979,5125,5788,7409,8303,9715,9909,11672,12591,15155,16484,19734,22067,22782,22849&Targets=10015,19558,16079,5478,5743,11580,12470,17769&Values=30,46,51,63,82,93,100,194,216,264,32876,33113,33155,33177,33232,33242,33243,33244,33245,33263,33277,33279,33280,33292,33864,34137,34358,34581,34641,34960,35048,35050,35257,35587,54018,66797,67440&RawValues=&Redirect=' + url + '" target="' + target + '">' + copy + '</a></td>\n';
+ad += '<td class="price"><a href="http://www.revresda.com/event.ng/Type=click&FlightID=37740&AdID=75399&TargetID=12470&Segments=65,3724,4865,4979,5125,5788,7409,8303,9715,9909,11672,12591,15155,16484,19734,22067,22782,22849&Targets=10015,19558,16079,5478,5743,11580,12470,17769&Values=30,46,51,63,82,93,100,194,216,264,32876,33113,33155,33177,33232,33242,33243,33244,33245,33263,33277,33279,33280,33292,33864,34137,34358,34581,34641,34960,35048,35050,35257,35587,54018,66797,67440&RawValues=&Redirect=' + url + '" target="' + target + '">' + price + '</a><img src="http://view.atdmt.com/VON/view/cndnavon0580000094von/direct/01/" height=1 width=1 border=0 style="position: absolute; visibility: hidden;"></td>\n';
+ad += '</tr>\n';
+document.write(ad);

@@ -1,0 +1,27 @@
+}
+// -->
+</script>
+<script type="text/javascript" src="http://j.imwx.com/global/common/elements/javascript/ext-divtools.js?01272008" ></script>
+<script type="text/javascript" src="http://j.imwx.com/global/common/elements/javascript/triggerParams-stdLauncher.js" ></script>
+<script type="text/javascript" src="/common/severe/modules/siteconfig.js?08182007"></script><script type="text/javascript">
+
+<!--
+
+// <!--#if expr="" -->
+var remoteAddr="172.16.24.242";
+// <!--#endif -->
+// 
+
+var adTest=GetCookie("oas_host_cookie");
+
+function regenerate2(){return;}
+
+function initialize_dom_severe_scroll(){return;}
+
+function onPageStart(){regenerate2();if(isMinNS4&&document.images["holdspace"]){thisX=document.images["holdspace"].x;thisY=document.images["holdspace"].y;thisElement=makeObjectNS4();}
+if(document.getElementById)initialize_dom_severe_scroll();}
+
+window.onload = onPageStart;
+
+var adS=new Array();
+initialize

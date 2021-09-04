@@ -1,0 +1,55 @@
+	if (!isNewsCenterStories || !isNewsCenterRoad && isNewsCenter || isMaps || isBlog || isHurricaneCentral || isIMaps) { 
+		triggerHardCodedPage(); 
+	} else if(isNewsCenterAlerts) {
+		triggerHardCodedPage(); 
+	} 
+}	
+else {
+		document.getElementById("MainHeaderImage").style.backgroundImage = "URL('http://i.imwx.com/web/common/banners/summer/basic.jpg')";
+	}
+
+</script>
+
+
+<DIV id="hbBHeaderSpon" style="display:inline;">
+	<script>
+		if(gnSiteMode=="alert") {}
+		else {
+			if(warningMode==true) {} 
+			else {
+				var hSpon = '<DIV align="center">';
+				if(typeof(OAS_listpos) == "undefined" || OAS_listpos.indexOf("HeaderSpon") == -1){
+					hSpon = hSpon + '<SCR'+'IPT TY'+'PE="text/javascript" SRC="http://j.imwx.com/common/header/javascript/headerspon.js"></SCR'+'IPT>';
+				}else {
+					hSpon = hSpon + '<div id="headSpon" style="width:151px;height:60px;"><SCR'+'IPT>OAS_AD(\'HeaderSpon\')</SCR'+'IPT></div>';
+				}
+				hSpon = hSpon + '<BR><IMG src="http://i.imwx.com/web/blank.gif" alt="" name="sponsorLogo" id="sponsorLogo" border="0">';
+				hSpon = hSpon + '</DIV>';
+				document.write(hSpon);
+			}
+		}
+	</script>
+
+</DIV>
+
+
+
+ 
+ <DIV id="hbBreadbox">
+ </DIV>
+
+	</DIV>
+	</TD>
+	</TR>
+</TABLE>
+
+
+
+
+
+
+<script>
+if(gnSiteMode == 'headline' || gnSiteMode == 'severe' || gnSiteMode == 'alert'){
+	if(sNSevereItems.length > 0){
+		var severeDivData = "";
+		for (var i=0;i<sNSev

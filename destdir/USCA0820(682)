@@ -1,0 +1,81 @@
+	sponsAdChannel="Classic_Map";
+}
+
+OAS_AD('PdSearch');
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript1.2">
+  function popupInteractiveMap(targetURL){
+    mapWindowOpen(targetURL, "InteractiveMap", "width=820,height=806,scrollbars,nostatus");
+  }
+</script>
+
+<script language="JavaScript">
+navIdURL = "USCA0820";
+isGoldUser = false;
+linkId = "USCA0820";
+inUS = true;
+</script>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="292">
+  <TR>
+    <TD VALIGN="TOP">
+    <IMG src="http://image.weather.com/web/blank.gif" style="width:300px;height:1px" id="mapAnc1"><br>
+    <SCRIPT>OAS_AD('PageSpon3')</SCRIPT>
+	<IMG src="http://image.weather.com/web/blank.gif" style="width:300px;height:8px"><br>
+	<SCRIPT>OAS_AD('PageSpon4')</SCRIPT>
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+
+
+
+
+
+
+		</TD>
+
+		<TD WIDTH="5"><IMG SRC="http://image.weather.com/web/common/blank.gif" HEIGHT="1" WIDTH="5" BORDER="0"></TD>
+
+		<TD VALIGN="TOP" WIDTH="100%" ALIGN="LEFT">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- add 36 hr forecast -->
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="430">
+ <TR>
+  <TD CLASS="module" VALIGN="TOP">
+   <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+    <TR>
+     <TD ALIGN="LEFT" WIDTH="250"><H2 CLASS="moduleTitleBar">36-Hour Forecast</H2></TD>
+	 <TD ALIGN="RIGHT" VALIGN="MIDDLE" WIDTH="179" CLASS="blkVerdanaText10">
+	 <SCRIPT>OAS_AD('WxSpon')</SCRIPT>
+     </TD>
+    </TR>
+ 

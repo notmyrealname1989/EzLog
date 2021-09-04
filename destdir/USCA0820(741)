@@ -1,0 +1,55 @@
+/p>
+					
+				
+									
+						
+									<p><A HREF="http://www.weather.com/weather/rss/subscription"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});"   >RSS Feeds</A></p>
+					
+				
+									
+						
+									<p><A HREF="http://www.weather.com/services/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});"   >More Weather Tools</A></p>
+					
+				
+									
+						
+									<p><A HREF="http://www.weather.com/services/notify.html"   >Notify: Severe Weather Alerts</A></p>
+					
+				
+									
+							
+									
+							
+									
+							
+				</td><td class="ftrPaddingL">							
+			<h3>International Weather</h3>			
+									<p><A HREF="http://br.weather.com"   >Brazil</A></p>
+					
+				
+									
+						
+									<p><A HREF="http://fr.weather.com"   >France</A></p>
+					
+				
+									
+						
+									<p><A HREF="http://de.weather.com"   >Germany</A></p>
+					
+				
+									
+						
+									<p><A HREF="http://espanol.weather.com"   >Latin America</A></p>
+					
+				
+									
+						
+									<p><A HREF="http://uk.weather.com"   >United Kingdom</A></p>
+					
+				
+		
+		</td>
+	</tr>
+</table>
+	<p class="ftrVerticalLinks">
+	<span class="ftrVLHeader">More Great Sites:</span><a href="http://forgetaway.weather.com/"  target="_blank">Vacation Home Rentals</a> | <a href="http://store.weather.com/Content/16.h

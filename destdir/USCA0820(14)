@@ -1,0 +1,28 @@
+arameter = paramValue('ref');if($myReferer == "(none)" && refParameter != ""){$myReferer = refParameter;}} else{DeleteCookie('partner_url','/','weather.com');}
+</script>
+
+
+
+
+
+
+
+
+<DIV id="hbBannerDiv" style="display:inline;" >
+	<div class="headerBanner"><IMG src="http://i.imwx.com/web/blank.gif" alt="" name="MainHeaderImage" id="MainHeaderImage" width="920" height="289" border="0"></div>
+</DIV>
+
+<DIV id="hbBlogo" style="display:none;">
+<a href="http://www.weather.com/?from=gn_logo_welcome" onClick"return smartTrack('http://www.weather.com/','gn_logo_welcome')"><IMG src="http://i.imwx.com/web/common/twc/logos/twc06_2007.png" width="71" height="60" alt="The Weather Channel" border="0" class="transparent"></A>
+</DIV>
+<DIV id="hbBlogoNoDotCom" style="display:none;">
+<a href="http://www.weather.com/?from=gn_logo_welcome" onClick"return smartTrack('http://www.weather.com/','gn_logo_welcome')"><IMG src="http://i.imwx.com/web/common/twc/logos/twc_only_reg_logo.png" width="58" height="48" alt="The Weather Channel" border="0" class="transparent"></A>
+</DIV>
+<DIV ID="vanityBanner" STYLE="position: absolute;top: 109px;left: 45px;z-index:2;">
+</DIV>
+
+<SCRIPT>
+var isMaps = (window.location.pathname.indexOf("/map")>=0)?1:0;
+var isVideo = (window.location.pathname.indexOf("/multimedia/")>=0)?1:0;
+var isWorld = (window.location.pathname.indexOf("/common/welcomepage/world.html")>=0)?1:0;
+var isMobi

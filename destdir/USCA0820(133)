@@ -1,0 +1,36 @@
+Keywords=escape("tickets, sport+tickets, music+tickets");
+}else if (channelPrefs == "Weddings"){
+	sponsAdKeywords=escape("honeymoon, honeymoon+destination, honeymoon+travel, outdoor+wedding, spring+wedding, summer+wedding, wedding+checklist, wedding+planner, wedding+planning, winter+wedding");
+}
+
+var sponsAdChannel;
+var timeframe=mx_hash["pif_timeframe"];
+if (timeframe=="today"){
+	sponsAdChannel="Today";
+}else if (timeframe=="tenday"){
+	sponsAdChannel="10_Day";
+}else if (timeframe=="hourbyhour:table"){
+	sponsAdChannel="Hour_by_Hour";
+}else if (timeframe=="hourbyhour:graph"){
+	sponsAdChannel="Hour_by_Hour_Graph";
+}else if (timeframe=="dailydetails"){
+	sponsAdChannel="Tomorrow";
+}else if (timeframe=="weekend"){
+	sponsAdChannel="Weekend";
+}else if (timeframe=="pastweather:daily"){
+	sponsAdChannel="Yesterday";
+}else if (timeframe=="pastweather:hourly"){
+	sponsAdChannel="Yesterday_Hourly";
+}else if (timeframe=="averages:monthly:graph"){
+	sponsAdChannel="Monthly_Averages_Graph";
+}else if (timeframe=="averages:monthly:table"){
+	sponsAdChannel="Monthly_Averages_Table";
+}else if (timeframe=="monthly"){
+	sponsAdChannel="Monthly";
+}else if (timeframe=="averages:compare"){
+	sponsAdChannel="Compare_2_Locations";
+}else if (timeframe=="averages:daily"){
+	sponsAdChannel="Daily_Averages";
+}else if (timeframe=="narrative"){
+	sponsAdChannel="Text_Forecast";
+}else if

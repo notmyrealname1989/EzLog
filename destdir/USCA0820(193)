@@ -1,0 +1,31 @@
+_ad_array(adS);
+
+OAS_url ='http://www.weather.com/RealMedia/a'+'ds/';
+OAS_host = window.location.hostname;
+
+if (adS[OAS_host]){OAS_url=adS[OAS_host][1];OAS_host = adS[OAS_host][0];
+}else{OAS_host='www.weather.com';}
+
+// special ads test code
+if (adTest)
+{
+    if ((remoteAddr.indexOf("10.") == 0)||
+        (remoteAddr.indexOf("169.254.") == 0)||
+        (remoteAddr.indexOf("192.168.") == 0)||
+        (remoteAddr.indexOf("216.133.140.1") == 0)||
+		(remoteAddr.indexOf("216.133.140.2") == 0))
+       {
+	 OAS_host=adTest;
+       }
+  }
+
+OAS_target="_top";OAS_version=10;OAS_rn='001234567890';OAS_rns='1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring(2,11);
+function OAS_NORMAL(pos) {
+if (OAS_MJX_on){
+  document.write('<A HREF="' + OAS_url + 'click_nx.a'+'ds/nx.weather.com/noads/1' + OAS_rns + '@' + pos + '?keywords=no" TARGET=' + OAS_target + '>');
+  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.a'+'ds/nx.weather.com/noads/1' + OAS_rns + '@' + pos + '?keywords=no" BORDER=0><\/A>'); }
+}
+function OAS_RICH(pos) {OAS_NORMAL(pos);}
+
+var queryString=new Object;function parseParameter(){var temp_query=new RegExp('^[^\\?]+\\?(.*)$');if(!temp_query.test(location))return false;var array=temp_query.exec(location);queryString.QUERY_STRING=array[1];var params=queryString.QUERY_STRING.split(/&/);for(var i=0;i<params.length;i++){var keys=para

@@ -1,0 +1,22 @@
+Traffic Reports</a></div>
+    	<div class="newWatch"><img src="http://image.weather.com/web/multimedia/videoIcon.gif" alt=""/> <A HREF="/multimedia/videoplayer.html?clip=363&collection=regwxforecast&from=weather36hourcurrentconditions" target="_blank">Watch the Western Forecast</A></div>
+    </div>
+    
+    <div id="wmContent2">
+    
+    
+ 		<div class="wmContent2col1">
+           
+
+
+<!-- BEGIN WEATHER FOR YOUR LIFE --><SCRIPT>
+function checkWhatForm(locid,ziptoloc,loctype,whatprefs) {
+if (locid && whatprefs)
+{
+tmpLocId = locid+":"+loctype;
+if(loctype != 4 && loctype != 1){
+//Overwrite the locid value if not type 1 or 4
+locid = ziptoloc;
+}
+// figure out tracking string for this command
+var tstr = "";if (whatprefs == 'Weather36HourAchesAndPainsCommand'){ tstr = "&from=whatmenu_dropdown_achesandpains"; }else if (whatprefs == 'Weather36HourAirQualityCommand'){ tstr = "&from=whatmenu_dropdown_airquality"; }else if (whatprefs == 'Weather36HourAllergiesCommand'){ tstr = "&from=whatmenu_dropdown_allergies"; }else if (whatprefs == 'Weather36HourBoatAndBeachCommand'){ tstr = "&from=whatmenu_dropdown_boatandbeach"; }else if (whatprefs == 'Weather36HourColdAndFluCommand'){ tstr = "&from=whatmenu_dropdown_coldandflu"; }else if (whatprefs == 'Weather36HourFitnessCommand'){ tstr = "&from=whatmenu_dropdown_fitness"; }else if (whatprefs == 'Weather36HourBusinessTravelerCommand'){ tstr = "&from=wha

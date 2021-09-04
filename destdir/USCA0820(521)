@@ -1,0 +1,20 @@
+Obj(thumbURL,largeURL,destURL,presName,animDestUrl) {
+	this.thumbURL = thumbURL;
+	this.largeURL = largeURL;
+	this.destURL = destURL;
+	this.presName = presName;
+	this.animDestUrl = animDestUrl;
+}
+
+mw_currArray[0] = new mw_propsObj('http://image.weather.com/web/common/maproom/radar_76x56.jpg','http://image.weather.com/web/radar/us_fat_closeradar_medium_usen.jpg','http://www.weather.com/outlook/travel/businesstraveler/mapUSCA0820?from=shopping_forecast','Radar','http://www.weather.com/outlook/travel/businesstraveler/mapUSCA0820?from=shopping_forecast&name=index_large_animated&day=1');
+mw_currArray[1] = new mw_propsObj('http://image.weather.com/web/common/maproom/satellite_76x56.jpg','http://image.weather.com/images/sat/regions/central_sat_440x297.jpg','http://www.weather.com/outlook/travel/businesstraveler/mapUSCA0820?name=centralussatellite_large','Satellite','http://www.weather.com/outlook/travel/businesstraveler/mapUSCA0820?name=centralussatellite_large_animated');
+	
+ 
+
+	
+	
+	mw_currArray[2] = new mw_propsObj('http://image.weather.com/web/common/maproom/hi6_76x56.jpg','http://image.weather.com/images/maps/current/sw_curtemp_440x297.jpg','http://www.weather.com/outlook/travel/businesstraveler/map/USCA0820?name=southwestuscurrenttemps_large','Temperatures','');
+	
+
+	
+	mw_currArray[3] = new mw_propsObj('http://image.weather.com/web/common/maproom/amfcst_76x56.jpg','http://image.weather.

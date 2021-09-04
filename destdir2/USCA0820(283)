@@ -1,0 +1,27 @@
+;
+		if(currentTabIsActive){
+			if((tempX > xMapDivPosition) && (tempX < xMapDivPosition+440)){ 
+				if((tempY > yMapDivPosition+1) && (tempY < yMapDivPosition+297)){	
+					if((tempX > xMapDivPosition+340) && (tempX < xMapDivPosition+440)){document.getElementById("Bubblebar").style.left = leftposition-114+xExtra;								 								}
+					if((tempY > yMapDivPosition+1) && (tempY < yMapDivPosition+50)){document.getElementById("Bubblebar").style.top = topposition+yNextToTop+yExtra;  						}
+					document.getElementById("Bubblebar").style.display = "block";
+					document.getElementById("Bubblebar").style.visibility = "visible";	   
+				}
+			}
+			return true;
+		}
+		hideBubble();
+	}		
+	addEvent(document.getElementById("interactiveMap"),"mouseover", showBubble);
+	addEvent(document.getElementById("interactiveMap"),"mousemove",mw_getMouseXY);
+ 	addEvent(document.getElementById("interactiveMap"),"mouseout",hideBubble);
+	addEvent(window,'scroll',mapLoadImages);
+	
+	
+	function setBackgroundImage (id, imageURL) {
+		if (document.layers) document[id].background.src = imageURL == 'none' ? null : imageURL;
+		else if (document.all) document.all[id].style.backgroundImage = imageURL == 'none' ? 'none' : 'url(' + imageURL + ')';
+		else if (document.getElementById) document.getElementById(id).style.backgroundImage = imageURL == 'none' ? 'none' : 'url(' + imageURL + ')';
+	}	
+	var mapImagesLoaded = false;
+	fu

@@ -1,0 +1,32 @@
+apPane_months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sept','Oct','Nov','Dec'];
+wxtools.MapPane_hours = ['12','1','2','3','4','5','6','7','8','9','10','11','12','1','2','3','4','5','6','7','8','9','10','11'];
+
+// Array of bitmasks used to translate tile coordinates <--> tile names
+wxtools.MapPane_bitmasks = {};
+for (var i = 1; i < 20; i++) {
+	wxtools.MapPane_bitmasks[i] = 1 << (i - 1);
+}
+
+// Insertion of all the class-specific element styles
+document.write('<style type="text/css">');
+document.write('.MapPane{position:relative; top:0px; left:0px; overflow:hidden; border: 1px #000000 inset;}');
+document.write('.MapPane_TileSets{position:absolute; top:0px; left:0px;}');
+document.write('.MapPane_Tiles{position:absolute; top:0px; left:0px;}');
+document.write('.MapPane_Tile{position:absolute; margin:0px; padding:0px;}');
+document.write('.MapPane_Frame{position:absolute; top:0px; left:0px;}');
+document.write('.MapPane_FrameElement{position:absolute; margin:0px; padding:0px;}');
+document.write(['.MapPane_Updated{position:absolute; margin:0px; padding:2px; width:',wxtools.MapPane_updatedWidth,'px; height:11px; background-color:#000000; color:#FFFFFF; font-size:9px; font-family:Arial; text-align:center;}'].join(''));
+document.write('</style>');
+
+
+
+
+
+
+
+
+
+
+/**
+ * MapPane_Point
+ * this class abstracts logic related to storing and manipulating a lat/lon

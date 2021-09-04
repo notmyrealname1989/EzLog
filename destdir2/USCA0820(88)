@@ -1,0 +1,45 @@
+1);
+		}else{
+			if (type == 0) actionLib(22);
+			else if (type == 1) actionLib(23);
+			else if (type == 2) actionLib(24);
+			else actionLib(25);
+		}
+	}
+	function activateForecastTab(){
+		deActivateCurrentTab();
+		mw_showHide("fcstTab","block");
+		activateForecastDailyTab(activeForecastTabDayIndx);
+		mw_showHide("forecastTabThumnail","block");
+		setForecastThumbnailStyle(activeForecastTabMapTypeIndx);
+		mw_showHide("forecastTabMap","block");
+		imgReplace('forecastTabMapImg',mw_fcstArray[activeForecastTabDayIndx][activeForecastTabMapTypeIndx].la
+35e9
+rgeURL);
+	}	
+	function deActivateForecastTab(){
+		mw_showHide("fcstTab","none");		
+		mw_showHide("forecastTabMap","none");
+		deActivateForecastDailyTab();
+		mw_showHide("forecastTabThumnail","none");	
+	}	
+	function activateForecastDailyTab(indx){
+		deActivateForecastDailyTab();
+		activeForecastTabDayIndx = indx;
+		mw_showHide("forecastTabDailyTab"+indx,"block");	
+	}
+	function deActivateForecastDailyTab(){
+		mw_showHide("forecastTabDailyTab0","none");
+		mw_showHide("forecastTabDailyTab1","none");	
+		mw_showHide("forecastTabDailyTab2","none");		
+	}
+
+	// util functions
+	function mw_showHide(id,action) {
+		if (document.getElementById) document.getElementById(id).style.display = action;
+	}		 
+	function goToInteractiveMapPage(animationFlag) {
+		if(animationFlag) animationFlag = "&animation=" + animationFlag;
+		else animationFlag = "";		
+		
+	

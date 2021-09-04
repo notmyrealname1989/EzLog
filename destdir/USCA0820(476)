@@ -1,0 +1,8 @@
+{ tstr = "&from=whatmenu_dropdown_golf"; }else if (whatprefs == 'Weather36HourHealthCommand'){ tstr = "&from=whatmenu_dropdown_health"; }else if (whatprefs == 'Weather36HourHomeCommand'){ tstr = "&from=whatmenu_dropdown_homeplanner"; }else if (whatprefs == 'Weather36HourInterstateCommand'){ tstr = "&from=whatmenu_dropdown_driving"; }else if (whatprefs == 'Weather36HourGardenCommand'){ tstr = "&from=whatmenu_dropdown_lawn"; }else if (whatprefs == 'Weather36HourOutdoorsCommand'){ tstr = "&from=whatmenu_dropdown_outdoors"; }else if (whatprefs == 'Weather36HourPetsCommand'){ tstr = "&from=whatmenu_dropdown_pets"; }else if (whatprefs == 'Weather36HourSchooldayCommand'){ tstr = "&from=whatmenu_dropdown_schoolday"; }else if (whatprefs == 'Weather36HourSkiCommand'){ tstr = "&from=whatmenu_dropdown_ski"; }else if (whatprefs == 'Weather36HourSunSafetyCommand'){ tstr = "&from=whatmenu_dropdown_sunsafety"; }else if (whatprefs == 'Weather36HourSportsCommand'){ tstr = "&from=whatmenu_dropdown_sportingevents"; }else if (whatprefs == 'Weather36HourVacationPlannerCommand'){ tstr = "&from=whatmenu_dropdown_vacationplanner"; }else{ tstr = "&from=whatmenu_dropdown";}
+  if (getUserPreferences('16') && getUserPreferences('16').length > 1)
+  {
+		var currentVert = getUserPreferences('16');
+		tstr = "&from=whatmenu_dropdown_" + currentVert.toLowerCase();;
+  }	
+  
+  var WWW_host = window.location.hostname;

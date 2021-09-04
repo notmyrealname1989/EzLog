@@ -1,0 +1,31 @@
+>',getTilesSource(id, center, width, height, level, tileSet, overlay, transparency),'</div>',
+					'</div>'];
+		
+		addInterface(id, width, height, overlay);
+		
+		if (overlay) addOverlay(id, center, width, height, level, overlay, transparency);
+		
+		return node.join('');
+	};
+	
+	// use document.write to insert the map directly into the page whereever the script is placed
+	wxtools.MapPane.draw = function(latitude, longitude, width, height, lev
+2e38
+el, tileSet, overlay, transparency) {
+		if (wxtools.MapPane_debug) wxtools.log('MapPane.draw(' + latitude + ',' + longitude + ',' + width + ',' + height + ',' + level + ',' + tileSet + ',' + overlay + ',' + transparency + ')');
+		
+		document.write(this.getSource(latitude, longitude, width, height, level, tileSet, overlay, transparency));
+	};
+	
+	wxtools.MapPane.addInterfaces = function() {
+		for (var id in wxtools.MapPane_interfacesToAdd) {
+			var mappane = document.getElementById(id);
+			mappane.appendChild(getInterface(wxtools.MapPane_interfacesToAdd[id].width, wxtools.MapPane_interfacesToAdd[id].height, wxtools.MapPane_interfacesToAdd[id].overlay));
+			wxtools.MapPane_interfacesToAdd[id] = null;
+			delete wxtools.MapPane_interfacesToAdd[id];
+		}
+	};
+	
+	// handle incoming series list response
+	wxtools.MapPane.drawOverlay = function(id, center, width, height, level, series, transparency, timestamp) {
+		if (wxto

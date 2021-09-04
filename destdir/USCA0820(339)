@@ -1,0 +1,18 @@
+Safety"){
+	sponsAdKeywords=escape("nutrition, health, asthma, headaches, low+carb, diabetes");
+}else if (channelPrefs == "BoatAndBeach" || channelPrefs == "Outdoors" || channelPrefs == "BusinessTravel" || channelPrefs == "Undeclared" || channelPrefs == "VacationPlanner" ){
+	sponsAdKeywords=escape("holidays, vacation,resort, trips, beaches, timeshare, spa+resort, cruises, cruise+line, adventure+travel, boats, tents, camping, travel");
+}else if (channelPrefs == "Golf"){
+	sponsAdKeywords=escape("pga+tour, discount+golf+tee+times, pga+golf, pga+highlights, golf");
+}else if (channelPrefs == "HomePlanner" || channelPrefs == "Schoolday" || channelPrefs == "Pets"){
+	sponsAdKeywords=escape("house, real+estate, furniture, mortgage+loan, loans, home+equity+loan, mortgage+loan+calculators");
+}else if (channelPrefs == "Driving"){
+	sponsAdKeywords=escape("car+rental, wheels+tires, car, cars, autoroute, travel+insurance, tires, van, auto+insurance, automobile");
+}else if (channelPrefs == "Lawn"){
+	sponsAdKeywords=escape("lawn, turf, garden, buy+lawn+garden, lawn+watering");
+}else if (channelPrefs == "Ski"){
+	sponsAdKeywords=escape("ski, ski vacation, snow+board, snow+chains, snow+tires, resort, ski+resort, ski+boots");
+}else if (channelPrefs == "SportingEvents"){
+	sponsAdKeywords=escape("tickets, sport+tickets, music+tickets");
+}else if (channelPrefs == "Weddings"){
+	sponsAdKeywo

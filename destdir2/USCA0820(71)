@@ -1,0 +1,36 @@
+y(' + id + ',' + center + ',' + width + ',' + height + ',' + level + ',' + series + ',' + transparency + ',' + timestamp + ')');
+		
+		if (wxtools.MapPane_interfacesToAdd != {}) this.addInterfaces();
+		
+		var projection = getProjection(level);
+		var centerXY = projection.project(center);
+		
+		var minTile = getMinTile(centerXY, width, height, level, projection);
+		var maxTile = getMaxTile(centerXY, width, height, level, projection);
+		
+		var tileContainer = document.getElementById(id).firstChild;
+		
+		var tiles = document.createElement('div');
+		tiles.className = 'MapPane_Tiles';
+		tiles.style.width = width + 'px';
+		tiles.style.height = height + 'px';
+		
+		for (var pointX = minTile.x; pointX <= maxTile.x; pointX++) {
+			for (var pointY = minTile.y; pointY <= maxTile.y; pointY++) {
+				var tileName = getTileName(new MapPane_Point(pointX, pointY), level);
+				var top = (((pointY * wxtools.MapPane_tileSize) - centerXY.y) + (height / 2));
+				var left = (((pointX * wxtools.MapPane_tileSize) - centerXY.x) + (width / 2));
+				
+				tileClip = getTile(tileName, series, top, left, timestamp);
+				
+				tiles.appendChild(tileClip);
+			}
+		}
+		
+		if (transparency) {
+			tiles.style.MozOpacity = (100 - transparency)/100;
+			tiles.style.filter = 'alpha(opacity=' + (100 - transparency) + ')'
+			tiles.style.opacity = (100 - transparency)/100;
+		}
+		
+		tileContainer

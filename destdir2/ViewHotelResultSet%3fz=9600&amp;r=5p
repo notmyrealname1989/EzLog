@@ -1,0 +1,8091 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+
+
+
+&nbsp;<Meta Name="DCSext.lpsmc" CONTENT="57368"/><Meta Name="DCSext.lps" CONTENT="95.92"/><Meta Name="DCSext.sli" CONTENT="N"/><Meta Name="DCSext.rd" CONTENT="10/11/2008"/><Meta Name="WT.tx_e" CONTENT="s"/><Meta Name="DCSext.m" CONTENT="Y"/><Meta Name="DCSext.dd" CONTENT="10/10/2008"/><Meta Name="WT.pn_sku" CONTENT="HOT"/><Meta Name="DCSext.srct" CONTENT="1"/><Meta Name="DCSext.promo" CONTENT="NA"/><Meta Name="DCSext.strf" CONTENT="7"/><Meta Name="DCSext.rm" CONTENT="2"/><Meta Name="DCSext.spT" CONTENT="Not Selected,NA"/><Meta Name="DCSext.zip" CONTENT="NA"/><Meta Name="DCSext.ttu" CONTENT="5"/><Meta Name="DCSext.mt" CONTENT="3"/><Meta Name="DCSext.b" CONTENT="A"/><Meta Name="DCSext.d" CONTENT="SAC"/><Meta Name="WT.si_p" CONTENT="SR"/><Meta Name="DCSext.ud" CONTENT="Sacramento  CA"/><Meta Name="DCSext.sts" CONTENT="STD"/><Meta Name="DCSext.ng" CONTENT="1"/><Meta Name="DCSext.tt" CONTENT="A"/><Meta Name="DCSext.cl" CONTENT="NA"/><Meta Name="WT.si_n" CONTENT="HOT"/><Meta Name="DCSext.ord" CONTENT="BV"/><Meta Name="DCSext.lihn" CONTENT="No LI Message"/>
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- $DateTime: 2006/03/09 14:15:22 $ -->
+<script type="text/javascript">
+	var gDomain="ctix8.cheaptickets.com";
+	var gDcsId="dcs4mzzicc2ep3maahjx8kl5c_7e2i";
+	var gFpc="WT_FPC";
+	var gConvert=true;
+	var gTrackEvents=1;
+	if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
+		document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
+	}
+
+	dcsVar();
+	dcsMeta();
+	dcsFunc("dcsAdv");
+	dcsTag();
+	dcsCleanUp("WT.co_f",WT.co_f,"WT.vt_sid",WT.vt_sid,"DCSext.hostname",DCSext.hostname,"DCSext.b",DCSext.b,"DCSext.wtEvtSrc",DCSext.wtEvtSrc);
+</script>
+
+<script type="text/javascript">
+	var wtProductionEnv='false';
+</script>
+
+
+
+	<script src="/site/js/tracking/dotomi.js" type="text/javascript"></script>
+
+
+<noscript>
+	
+		
+		
+			<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://ctix8.cheaptickets.com/dcs4mzzicc2ep3maahjx8kl5c_7e2i/njs.gif?dcsuri=/nojavascript&amp;WT.js=No" />
+		
+		
+	
+</noscript>
+
+<script>
+	 function onClickWebtrends() {}
+</script>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+
+<script type="text/javascript">
+	parent.canSearch = true;
+	if(parent.document.getElementById('resultsFrame')!=null){
+		
+		parent.changeSortTab('ORBITZSAVER');
+	}
+	parent.hideIntrastitial();
+</script>
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+oGRPop = false;
+function grPopKiller() {
+	if (oGRPop) {
+		oGRPop.close();
+	} else if (parent.oGRPop) {
+		parent.oGRPop.close();
+	}
+}
+addEvent(window, "unload", grPopKiller, false);
+</script>
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+
+
+
+	
+		
+	
+	
+
+
+<script>
+	var useFrames = true;
+	var isFramelessHotelResultSet = true;
+</script>
+
+
+
+ 
+
+
+<div id="resultSet">
+	
+	
+	
+	
+	<!-- Included as part of UIC-534 -->
+	
+
+
+
+
+
+	
+    <!--This is commented because it will display the error message from resultArea.jsp -->
+    
+	<div id="resultSetHeader">
+    
+    
+	
+		
+			
+			
+			<p class="telesales"><strong>Need help booking your trip? Call us 1-877-672-4892</strong></p>
+		
+	
+	
+
+
+<div class="linksPreviousNext">
+	
+	
+		<ul class="horizontal-list next-prev">
+			<li class="first">
+				
+				
+				Previous
+				
+			</li>
+			<li>
+				
+				<a class="js" href="/App/PerformHotelSort?nextPage=true&z=a1a1&r=75" onclick="return top.selectResultSet('n0s0','nextPage')">Next</a>
+				
+				
+			</li>
+		</ul>
+	
+	
+	
+	
+</div>
+
+
+		
+	
+	
+	
+
+	
+		
+			
+			
+				<p id="lookBelow">					
+					
+					
+					Look below to find: 
+					
+					
+					properties
+					
+					
+					
+						
+						
+							
+							
+								
+									
+									
+									
+										in
+									
+									
+									
+								
+								
+								
+							
+							
+							
+						        
+							
+							
+								<strong> Sacramento, CA</strong>
+							
+							
+						
+					
+					</p>
+				
+			
+		
+	</div>
+
+	<br class="clear" />
+
+	
+	
+		
+			
+
+
+<script language="javascript" type="text/javascript">
+var isDateless=false;
+function adjustPadding(pNum) {
+
+	if(document.getElementById("promo"+pNum)){
+		var offset = document.getElementById("promo"+pNum).getElementsByTagName("DIV")[0].offsetHeight;
+		if(!is_ie) {offset = offset-20;}
+		document.getElementById("priceId"+pNum).getElementsByTagName("DIV")[0].style.paddingBottom=offset+'px';
+		document.getElementById("descId"+pNum).getElementsByTagName("DIV")[0].style.paddingBottom=offset+'px';
+		if(is_saf) {
+			document.getElementById("promo"+pNum).getElementsByTagName("DIV")[0].style.marginTop="5px"; // required for Safari to display properly!
+		}
+	}
+}
+
+</script>
+
+<div id="valueSorted"></div>
+
+
+	
+		<div id="hotelResults">
+	
+	
+
+
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId1">
+	<div id="result1">
+		<div id="hotelProperty1">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 217989 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1a3&r=77&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=217989&divId=0" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Holiday Inn Express Hotel & Suites SACRAMENTO AIRPORT NATOMAS
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId1">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$126</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1a2&r=76&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=217989&divId=0';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1a2&r=76&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=217989&divId=0"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId1">
+						<!-- OSV 79376628 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1a3&r=77&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=217989&divId=0&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/EX/thumb_SACDP.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT RPDSlNb2QN-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													2981 ADVANTAGE WAY,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Thank you for Staying Smart and welcome to the fabulous Holiday Inn Express Hotel & Suites Sacramento Airport Natomas, California. We are conveniently located</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1a3&r=77&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=217989&divId=0' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details1" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1a3&r=77&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=217989&divId=0" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1a3&r=77&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=217989&divId=0&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1a3&r=77&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=217989&divId=0&tabIndex=3' target="_top">
+									<strong>Photos</strong></a>&nbsp;|&nbsp;</span>
+								
+								
+									<span class="hotelTours"><a href='/App/ViewHotelDetails?z=a1a3&r=77&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=217989&divId=0&tabIndex=3&selectTours=true' target="_top">
+									<strong>Tours</strong></a></span>
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview1">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>5.0</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1a3&r=77&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=217989&divId=0&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1a3&r=77&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=217989&divId=0&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId2">
+	<div id="result2">
+		<div id="hotelProperty2">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 57368 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1a6&r=7a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57368&divId=1" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Good Nite Inn Sacramento
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId2">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$47</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1a5&r=79&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=57368&divId=1';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1a5&r=79&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=57368&divId=1"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId2">
+						<!-- OSV 79376627 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1a6&r=7a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57368&divId=1&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/hotelimages/329/329/187952/TBNL0-20080613-095415-210.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT bOMlmtY587-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_2_fff.gif" alt="2 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													25 Howe Avenue,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Located two miles from Downtown Sacramento, The State Capital, Cal State University, Cal Expo and Water World Off Highway 50. Property is half way between San</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1a6&r=7a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57368&divId=1' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details2" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1a6&r=7a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57368&divId=1" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1a6&r=7a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57368&divId=1&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1a6&r=7a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57368&divId=1&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview2">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>3.4</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1a6&r=7a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57368&divId=1&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1a6&r=7a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57368&divId=1&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+	
+		
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId3">
+	<div id="result3">
+		<div id="hotelProperty3">
+			
+			
+			<div class="result propertyCard tlcResult">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 62156 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1a9&r=7d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=62156&divId=2" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Vagabond Inn Executive Sacramento - Cal Expo
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId3">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+												<p class="priceText"><span>was $98</span></p>
+											
+											<p class="price">
+												from <span class="hotelPrice withSavings">$88</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1a8&r=7c&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=62156&divId=2';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1a8&r=7c&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=62156&divId=2"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId3">
+						<!-- OSV 79376626 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1a9&r=7d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=62156&divId=2&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/hotelimages/467/1467/187297/TBNL0-20080603-031522-783.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT tOMdSMZ2478-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_2_fff.gif" alt="2 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													2030 Arden Way,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Conveniently located right next to California Exposition in Sacramento, our Inn features a picturesque garden gazebo; some rooms have fireplaces. Perfect</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1a9&r=7d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=62156&divId=2' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details3" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1a9&r=7d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=62156&divId=2" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1a9&r=7d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=62156&divId=2&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1a9&r=7d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=62156&divId=2&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview3">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>4.3</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1a9&r=7d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=62156&divId=2&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1a9&r=7d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=62156&divId=2&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+					
+					<div class="promotions">
+						
+							<div class="specialOffers">
+								<div class="offersImage">
+									
+									
+						<img src="/Marketing/Images/ORB_path_Sale_120x40.gif" alt="TLC Sales Eligible " />
+									
+									
+									
+									
+								</div>
+				
+								<div class="promoList">
+									
+										
+										
+										
+											
+												<span class="promo">
+													
+													Save 10% Now!
+													
+												</span>
+											
+										
+										
+									
+				
+									
+				
+									
+										
+										
+										
+											
+										
+										
+
+										<span class="promo">
+											<strong><a href="/App/PerformDatedPromoRequests?masterId=62156&popupsDisabled=false&performPromoRequests=true&z=a1ac&r=7g" onClick="return popUpGen('/App/PerformDatedPromoRequests?masterId=62156&popupsDisabled=false&performPromoRequests=true&z=a1ad&r=7h','500','350');">View all promotions and terms</a></strong>
+										</span>
+									
+								</div>
+							</div>
+						
+				
+						
+					</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId4">
+	<div id="result4">
+		<div id="hotelProperty4">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 208681 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1af&r=7j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=208681&divId=3" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Travelodge Sacramento / Rancho Cordova
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId4">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$53</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1ae&r=7i&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=208681&divId=3';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1ae&r=7i&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=208681&divId=3"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId4">
+						<!-- OSV 65845041 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1af&r=7j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=208681&divId=3&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/TL/thumb_08389.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT nPDRNzhDD1-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_2_fff.gif" alt="2 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													9646 Micron Avenue,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								The Travelodge Sacramento / Rancho Cordova is located near I-50 in Sacramento. The hotel is only 12 miles from the Cal Expo and the State Fair and only 13</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1af&r=7j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=208681&divId=3' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details4" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1af&r=7j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=208681&divId=3" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1af&r=7j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=208681&divId=3&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1af&r=7j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=208681&divId=3&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview4">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>3.5</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1af&r=7j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=208681&divId=3&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1af&r=7j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=208681&divId=3&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId5">
+	<div id="result5">
+		<div id="hotelProperty5">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 58725 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1b2&r=7m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=58725&divId=4" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Ramada Limited Sacramento CA
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId5">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$79</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1b1&r=7l&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=58725&divId=4';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1b1&r=7l&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=58725&divId=4"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId5">
+						<!-- OSV 63694889 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1b2&r=7m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=58725&divId=4&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/RA/thumb_02491.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT qPDxGdqNDD1-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													350 Bercut Drive,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Welcome to Ramada Limited Sacramento, located close to Downtown Sacramento and Discovery Park. Ramada Limited Sacramento offers travelers a warm hotel, a</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1b2&r=7m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=58725&divId=4' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details5" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1b2&r=7m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=58725&divId=4" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1b2&r=7m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=58725&divId=4&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1b2&r=7m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=58725&divId=4&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview5">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>4.1</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1b2&r=7m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=58725&divId=4&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1b2&r=7m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=58725&divId=4&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+
+
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId6">
+	<div id="result6">
+		<div id="hotelProperty6">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 8291 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1b5&r=7p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=8291&divId=5" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Radisson Hotel Sacramento
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId6">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$98</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1b4&r=7o&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=8291&divId=5';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1b4&r=7o&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=8291&divId=5"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId6">
+						<!-- OSV 62426033 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1b5&r=7p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=8291&divId=5&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/RAD/thumb_SACRAMEN.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT VPDhNnhIA00911-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													500 LEISURE LANE,
+												
+												SACRAMENTO, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								The Radisson Hotel Sacramento offers 306 guest rooms and Suites and features high speed internet access in all rooms. Visit our Award winning Basil's on the</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1b5&r=7p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=8291&divId=5' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details6" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1b5&r=7p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=8291&divId=5" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1b5&r=7p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=8291&divId=5&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1b5&r=7p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=8291&divId=5&tabIndex=3' target="_top">
+									<strong>Photos</strong></a>&nbsp;|&nbsp;</span>
+								
+								
+									<span class="hotelTours"><a href='/App/ViewHotelDetails?z=a1b5&r=7p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=8291&divId=5&tabIndex=3&selectTours=true' target="_top">
+									<strong>Tours</strong></a></span>
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview6">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>3.6</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1b5&r=7p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=8291&divId=5&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1b5&r=7p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=8291&divId=5&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId7">
+	<div id="result7">
+		<div id="hotelProperty7">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 126139 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1b8&r=7s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=126139&divId=6" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Days Inn Sacramento Downtown
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId7">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$64</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1b7&r=7r&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=126139&divId=6';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1b7&r=7r&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=126139&divId=6"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId7">
+						<!-- OSV 61929252 -->
+			
+						<div class="hotelPhoto">
+							
+					
+							
+								
+									<img src="/public/pegsimages/DI/thumb_15512.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT QPDRrRRK11-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_2_fff.gif" alt="2 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													228 Jibboom Street,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Conveniently located off Interstate 5 Close Proximity to local attractions Sacramento River is within walking distance Within 1 Mile from Downtown &amp; Old</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1b8&r=7s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=126139&divId=6' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details7" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1b8&r=7s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=126139&divId=6" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1b8&r=7s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=126139&divId=6&tabIndex=1' target="_top">
+								<strong>Map</strong></a></span>
+				
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview7">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>4.1</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1b8&r=7s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=126139&divId=6&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1b8&r=7s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=126139&divId=6&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId8">
+	<div id="result8">
+		<div id="hotelProperty8">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 16163 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1bb&r=7v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=16163&divId=7" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Holiday Inn SACRAMENTO-CAPITOL PLAZA
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId8">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$123</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1ba&r=7u&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=16163&divId=7';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1ba&r=7u&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=16163&divId=7"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId8">
+						<!-- OSV 79376622 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1bb&r=7v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=16163&divId=7&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/HI/thumb_SACCP.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT hPDXLmT2DN-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													300 J STREET,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								The Holiday Inn Hotel Sacramento Capitol Plaza-Downtown/Old Sacramento caters to both corporate and leisure travel and is set in the heart of vibrant &</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1bb&r=7v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=16163&divId=7' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details8" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1bb&r=7v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=16163&divId=7" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1bb&r=7v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=16163&divId=7&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1bb&r=7v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=16163&divId=7&tabIndex=3' target="_top">
+									<strong>Photos</strong></a>&nbsp;|&nbsp;</span>
+								
+								
+									<span class="hotelTours"><a href='/App/ViewHotelDetails?z=a1bb&r=7v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=16163&divId=7&tabIndex=3&selectTours=true' target="_top">
+									<strong>Tours</strong></a></span>
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview8">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>4.2</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1bb&r=7v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=16163&divId=7&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1bb&r=7v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=16163&divId=7&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId9">
+	<div id="result9">
+		<div id="hotelProperty9">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 72564 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1be&r=7y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=72564&divId=8" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Vagabond Inn Sacramento Midtown
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId9">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+												<p class="priceText"><span>was $76</span></p>
+											
+											<p class="price">
+												from <span class="hotelPrice withSavings">$68</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1bd&r=7x&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=72564&divId=8';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1bd&r=7x&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=72564&divId=8"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId9">
+						<!-- OSV 61023154 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1be&r=7y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=72564&divId=8&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/hotelimages/084/9084/189232/TBNL0-20080630-093046-659.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT FOMDdsw6863-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_2_fff.gif" alt="2 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													1319 30th Street,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Vagabond Inn Sacramento (Midtown) is located in the heart of Midtown Sacramento and is convenient to the State Capitol, Old Sacramento, the State Fairgrounds,</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1be&r=7y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=72564&divId=8' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details9" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1be&r=7y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=72564&divId=8" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1be&r=7y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=72564&divId=8&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1be&r=7y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=72564&divId=8&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview9">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>3.3</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1be&r=7y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=72564&divId=8&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1be&r=7y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=72564&divId=8&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+					
+					<div class="promotions">
+						
+							<div class="specialOffers">
+								<div class="offersImage">
+									
+									
+									
+									
+										<img src="/site/img/hotel/specialOffer.gif" alt="Offer" />
+									
+									
+								</div>
+				
+								<div class="promoList">
+									
+										
+										
+										
+											
+												<span class="promo">
+													
+													Special Savings - 10% off!
+													
+												</span>
+											
+										
+										
+									
+				
+									
+				
+									
+										
+										
+										
+											
+										
+										
+
+										<span class="promo">
+											<strong><a href="/App/PerformDatedPromoRequests?masterId=72564&popupsDisabled=false&performPromoRequests=true&z=a1c1&r=81" onClick="return popUpGen('/App/PerformDatedPromoRequests?masterId=72564&popupsDisabled=false&performPromoRequests=true&z=a1c2&r=82','500','350');">View all promotions and terms</a></strong>
+										</span>
+									
+								</div>
+							</div>
+						
+				
+						
+					</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId10">
+	<div id="result10">
+		<div id="hotelProperty10">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 85912 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1c4&r=84&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85912&divId=9" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Larkspur Landing Folsom
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId10">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$119</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1c3&r=83&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=85912&divId=9';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1c3&r=83&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=85912&divId=9"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId10">
+						<!-- OSV 60132475 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1c4&r=84&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85912&divId=9&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/hotelimages/549/63549/177952/TBNL0-20080103-070638-782.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT zOMDhST135263-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													121 Iron Point Rd.,
+												
+												Folsom, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Larkspur Landing Folsom hotel is conveniently located off of Highway 50, with quick and easy access to the city of Sacramento, serving as the perfect stopping</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1c4&r=84&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85912&divId=9' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details10" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1c4&r=84&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85912&divId=9" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1c4&r=84&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85912&divId=9&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1c4&r=84&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85912&divId=9&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview10">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>5.0</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1c4&r=84&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85912&divId=9&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1c4&r=84&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85912&divId=9&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId11">
+	<div id="result11">
+		<div id="hotelProperty11">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 46190 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1c7&r=87&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=46190&divId=10" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Days Inn Sacramento/North Highlands
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId11">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$69</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1c6&r=86&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=46190&divId=10';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1c6&r=86&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=46190&divId=10"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId11">
+						<!-- OSV 59236937 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1c7&r=87&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=46190&divId=10&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/DI/09095_thumb.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT bPDYGWNK11-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_2_fff.gif" alt="2 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													3425 Orange Grove Ave,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Welcome! Greetings from The Days Inn Sacramento! It Would be a Great Privilege for us to Give you a Tour of Our Magnificant Hotel &amp; Restaurant with our</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1c7&r=87&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=46190&divId=10' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details11" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1c7&r=87&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=46190&divId=10" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1c7&r=87&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=46190&divId=10&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1c7&r=87&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=46190&divId=10&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview11">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>2.6</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1c7&r=87&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=46190&divId=10&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1c7&r=87&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=46190&divId=10&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId12">
+	<div id="result12">
+		<div id="hotelProperty12">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 66859 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1ca&r=8a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=66859&divId=11" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Super 8 Motel -Sacramento/Airport Area
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId12">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$79</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1c9&r=89&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=66859&divId=11';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1c9&r=89&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=66859&divId=11"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId12">
+						<!-- OSV 57078258 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1ca&r=8a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=66859&divId=11&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/SE/14994_thumb.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT jPDbpnSPNQ1-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_2_fff.gif" alt="2 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													2654 El Centro Rd,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								AAA Approved/2 Diamonds, easy access from I-80 and I-5. Complimentary Super Start Breakfast, Wireless High Speed internet, In-Room coffee makers, AM/FM clock</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1ca&r=8a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=66859&divId=11' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details12" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1ca&r=8a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=66859&divId=11" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1ca&r=8a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=66859&divId=11&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1ca&r=8a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=66859&divId=11&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview12">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>3.8</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1ca&r=8a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=66859&divId=11&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1ca&r=8a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=66859&divId=11&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId13">
+	<div id="result13">
+		<div id="hotelProperty13">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 205136 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1cd&r=8d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=205136&divId=12" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Vagabond Inn Executive Rancho Cordova
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId13">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$64</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1cc&r=8c&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=205136&divId=12';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1cc&r=8c&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=205136&divId=12"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId13">
+						<!-- OSV 56693671 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1cd&r=8d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=205136&divId=12&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/hotelimages/772/48772/179678/TBNL0-20080206-065226-949.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT jOMQNyQ13910-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													10713 White Rock Rd.,
+												
+												Rancho Cordova, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								This Business Friendly Hotel is located off U.S. 50 adjacent to the Rancho Cordova Business District. Close to Areo Jet, Intel and other major business, we're</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1cd&r=8d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=205136&divId=12' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details13" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1cd&r=8d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=205136&divId=12" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1cd&r=8d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=205136&divId=12&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1cd&r=8d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=205136&divId=12&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview13">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>3.7</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1cd&r=8d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=205136&divId=12&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1cd&r=8d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=205136&divId=12&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId14">
+	<div id="result14">
+		<div id="hotelProperty14">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 57785 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1d0&r=8g&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57785&divId=13" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Super 8 Motel - Discover Park
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId14">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$70</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1cf&r=8f&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=57785&divId=13';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1cf&r=8f&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=57785&divId=13"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId14">
+						<!-- OSV 56665134 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1d0&r=8g&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57785&divId=13&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/SE/11791_thumb.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT sPDscPKNDD1-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_2_fff.gif" alt="2 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													221 Jibboom Street,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Located next to Old Sacramento, Discover Park, State Capital, City Zoo and Convention Center. Experience the Riverboat Cruise, dine and dance on the Victorian</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1d0&r=8g&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57785&divId=13' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details14" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1d0&r=8g&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57785&divId=13" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1d0&r=8g&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57785&divId=13&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1d0&r=8g&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57785&divId=13&tabIndex=3' target="_top">
+									<strong>Photos</strong></a>&nbsp;|&nbsp;</span>
+								
+								
+									<span class="hotelTours"><a href='/App/ViewHotelDetails?z=a1d0&r=8g&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57785&divId=13&tabIndex=3&selectTours=true' target="_top">
+									<strong>Tours</strong></a></span>
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview14">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>2.5</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1d0&r=8g&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57785&divId=13&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1d0&r=8g&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=57785&divId=13&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+
+
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId15">
+	<div id="result15">
+		<div id="hotelProperty15">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 81053 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1d3&r=8j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=81053&divId=14" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Larkspur Landing Sacramento
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId15">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$129</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1d2&r=8i&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=81053&divId=14';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1d2&r=8i&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=81053&divId=14"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId15">
+						<!-- OSV 56101526 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1d3&r=8j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=81053&divId=14&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/hotelimages/547/63547/177013/TBNL0-20071213-013529-707.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT YOMsJWj106407-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													555 Howe Ave.,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								The Larkspur Landing Sacramento Hotel is set in the charming Craftsman style surroundings, the hotel offers the Larkspur signature FeatherBorne® Bed,</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1d3&r=8j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=81053&divId=14' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details15" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1d3&r=8j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=81053&divId=14" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1d3&r=8j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=81053&divId=14&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1d3&r=8j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=81053&divId=14&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview15">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>4.6</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1d3&r=8j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=81053&divId=14&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1d3&r=8j&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=81053&divId=14&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId16">
+	<div id="result16">
+		<div id="hotelProperty16">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 51421 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1d6&r=8m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=51421&divId=15" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Holiday Inn Express SACRAMENTO CONVENTION CENTER
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId16">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$120</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1d5&r=8l&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=51421&divId=15';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1d5&r=8l&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=51421&divId=15"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId16">
+						<!-- OSV 54353162 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1d6&r=8m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=51421&divId=15&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/EX/SACCA_thumb.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT wPDLjdv2DN-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													728 SIXTEENTH STREET,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Experience the Holiday Inn Express in downtown Sacramento, a favorite of both Business and Leisure Travelers, Tour and Convention Groups and considered by many</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1d6&r=8m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=51421&divId=15' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details16" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1d6&r=8m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=51421&divId=15" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1d6&r=8m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=51421&divId=15&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1d6&r=8m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=51421&divId=15&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview16">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>4.1</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1d6&r=8m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=51421&divId=15&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1d6&r=8m&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=51421&divId=15&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId17">
+	<div id="result17">
+		<div id="hotelProperty17">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 85913 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1d9&r=8p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85913&divId=16" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Larkspur Landing Roseville
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId17">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$129</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1d8&r=8o&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=85913&divId=16';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1d8&r=8o&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=85913&divId=16"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId17">
+						<!-- OSV 52455561 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1d9&r=8p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85913&divId=16&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/hotelimages/915/12915/185655/TBNL0-20080502-082641-525.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT YOMykYV145824-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													1931 Taylor Rd.,
+												
+												Roseville, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+								<p class="alert"><strong>This property is entirely smoke-free</strong></p>
+							
+			
+							<p class="hotelDesc">
+								The Larkspur Landing Roseville hotel is designed in the warm and inviting Craftsman style, the hotel offers the Larkspur signature FeatherBorne® Bed,</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1d9&r=8p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85913&divId=16' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details17" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1d9&r=8p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85913&divId=16" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1d9&r=8p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85913&divId=16&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1d9&r=8p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85913&divId=16&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview17">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+										
+											<li class="noScore">No score yet</li>
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1d9&r=8p&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=85913&divId=16&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId18">
+	<div id="result18">
+		<div id="hotelProperty18">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 219449 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1dc&r=8s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=219449&divId=17" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Holiday Inn Express Hotel & Suites ROSEVILLE - GALLERIA AREA
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId18">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$108</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1db&r=8r&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=219449&divId=17';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1db&r=8r&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=219449&divId=17"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId18">
+						<!-- OSV 52300842 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1dc&r=8s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=219449&divId=17&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/EX/thumb_SMFRC.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT BPDbBTw2QN-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													1398 EAST ROSEVILLE PARKWAY,
+												
+												Roseville, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								The Holiday Inn Express Hotel and Suites in Roseville is the newest addition in the Roseville CA community. The hotel is centrally located in the heart of</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1dc&r=8s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=219449&divId=17' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details18" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1dc&r=8s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=219449&divId=17" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1dc&r=8s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=219449&divId=17&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1dc&r=8s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=219449&divId=17&tabIndex=3' target="_top">
+									<strong>Photos</strong></a>&nbsp;|&nbsp;</span>
+								
+								
+									<span class="hotelTours"><a href='/App/ViewHotelDetails?z=a1dc&r=8s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=219449&divId=17&tabIndex=3&selectTours=true' target="_top">
+									<strong>Tours</strong></a></span>
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview18">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>5.0</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1dc&r=8s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=219449&divId=17&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1dc&r=8s&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=219449&divId=17&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId19">
+	<div id="result19">
+		<div id="hotelProperty19">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 24716 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1df&r=8v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=24716&divId=18" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Econo Lodge Sacramento
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId19">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$86</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1de&r=8u&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=24716&divId=18';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1de&r=8u&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=24716&divId=18"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId19">
+						<!-- OSV 51227668 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1df&r=8v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=24716&divId=18&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/EO/thumb_CA001.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT LPDPmTVZ30TOBH-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_2_fff.gif" alt="2 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													711 16th St.,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								The Econo Lodge is conveniently located in downtown, blocks from the Sacramento Convention Center and less than two miles from historic Old Town Sacramento.</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1df&r=8v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=24716&divId=18' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details19" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1df&r=8v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=24716&divId=18" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1df&r=8v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=24716&divId=18&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1df&r=8v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=24716&divId=18&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview19">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>3.6</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1df&r=8v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=24716&divId=18&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1df&r=8v&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=24716&divId=18&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId20">
+	<div id="result20">
+		<div id="hotelProperty20">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 257851 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1e2&r=8y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=257851&divId=19" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Four Points by Sheraton Sacramento International Airport
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId20">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$123</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1e1&r=8x&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=257851&divId=19';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1e1&r=8x&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=257851&divId=19"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId20">
+						<!-- OSV 50914053 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1e2&r=8y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=257851&divId=19&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/FP/thumb_1580.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT VPDTRwtD2D-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													4900 Duckhorn Drive,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								A Warm Greeting. Welcome to the new Four Points by Sheraton Sacramento International Airport. We're just three miles from Sacramento International Airport and</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1e2&r=8y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=257851&divId=19' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details20" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1e2&r=8y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=257851&divId=19" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1e2&r=8y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=257851&divId=19&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1e2&r=8y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=257851&divId=19&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview20">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>4.5</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1e2&r=8y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=257851&divId=19&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1e2&r=8y&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=257851&divId=19&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId21">
+	<div id="result21">
+		<div id="hotelProperty21">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 15144 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1e5&r=91&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=15144&divId=20" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Quality Inn Downtown
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId21">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$106</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1e4&r=90&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=15144&divId=20';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1e4&r=90&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=15144&divId=20"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId21">
+						<!-- OSV 49988281 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1e5&r=91&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=15144&divId=20&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/QI/CA505_thumb.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT zPDcbJgZ20VOBH-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_2_fff.gif" alt="2 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													818 15th Street,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								In the heart of the city, 1 block from the Convention Center. Cable service, free HBO; walking distance to shopping. Free parking and free wireless high-speed</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1e5&r=91&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=15144&divId=20' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details21" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1e5&r=91&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=15144&divId=20" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1e5&r=91&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=15144&divId=20&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1e5&r=91&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=15144&divId=20&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview21">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>4.0</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1e5&r=91&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=15144&divId=20&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1e5&r=91&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=15144&divId=20&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId22">
+	<div id="result22">
+		<div id="hotelProperty22">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 27440 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1e8&r=94&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=27440&divId=21" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Sheraton Grand Sacramento Hotel
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId22">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$271</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1e7&r=93&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=27440&divId=21';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1e7&r=93&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=27440&divId=21"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId22">
+						<!-- OSV 49976669 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1e8&r=94&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=27440&divId=21&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/SI/thumb_1247.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT LPDfCrbW1K-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_4_fff.gif" alt="4 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													1230 J Street,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Located in the beautifully restored historic Public Market Building, the Sheraton Grand Sacramento is steps away from the Sacramento Convention Center and one</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1e8&r=94&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=27440&divId=21' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details22" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1e8&r=94&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=27440&divId=21" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1e8&r=94&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=27440&divId=21&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1e8&r=94&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=27440&divId=21&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview22">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>4.6</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1e8&r=94&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=27440&divId=21&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1e8&r=94&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=27440&divId=21&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId23">
+	<div id="result23">
+		<div id="hotelProperty23">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 260190 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1eb&r=97&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=260190&divId=22" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Staybridge Suites SACRAMENTO NATOMAS
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId23">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$104</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1ea&r=96&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=260190&divId=22';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1ea&r=96&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=260190&divId=22"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId23">
+						<!-- OSV 49500000 -->
+			
+						<div class="hotelPhoto">
+							
+					
+							
+								
+									<img src="/public/pegsimages/SB/thumb_SACTR.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT fPDvYtCSQN-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													140 PROMENADE CIRCLE,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								 Get Comfortable at the brand new Staybridge Suites Sacramento / Natomas hotel, the perfect accommodation for your next visit or extended stay in</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1eb&r=97&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=260190&divId=22' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details23" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1eb&r=97&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=260190&divId=22" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1eb&r=97&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=260190&divId=22&tabIndex=1' target="_top">
+								<strong>Map</strong></a></span>
+				
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview23">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+										
+											<li class="noScore">No score yet</li>
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1eb&r=97&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=260190&divId=22&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId24">
+	<div id="result24">
+		<div id="hotelProperty24">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 248413 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1ee&r=9a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=248413&divId=23" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Lions Gate Hotel
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId24">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$98</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1ed&r=99&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=248413&divId=23';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1ed&r=99&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=248413&divId=23"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId24">
+						<!-- OSV 49289173 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1ee&r=9a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=248413&divId=23&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/UI/thumb_61770.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT yPDbkTvA01-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_3_fff.gif" alt="3 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													3410 Westover Street,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+								<p class="alert"><strong>This property is entirely smoke-free</strong></p>
+							
+			
+							<p class="hotelDesc">
+								Beautiful Private Club atmosphere near Sacramento attractions. Standard rooms w/l or 2 beds up to Family Suites sleeping 8/ Grand Residences /4 BR/ 2000 Sq.</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1ee&r=9a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=248413&divId=23' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details24" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1ee&r=9a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=248413&divId=23" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1ee&r=9a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=248413&divId=23&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1ee&r=9a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=248413&divId=23&tabIndex=3' target="_top">
+									<strong>Photos</strong></a></span>
+								
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview24">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>4.7</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1ee&r=9a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=248413&divId=23&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1ee&r=9a&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=248413&divId=23&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+		
+		
+		
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+	
+		
+			
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="resultId25">
+	<div id="result25">
+		<div id="hotelProperty25">
+			
+			
+			<div class="result propertyCard">
+				<div class="cardHeader">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<div class="hotelName ">
+									<!-- OID 48787 --> 
+									
+									
+									
+									<strong>
+										<a href="/App/ViewHotelDetails?z=a1f1&r=9d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=48787&divId=24" target="_top" style="text-decoration:none;color:#000;">
+											
+												
+													Comfort Inn & Suites
+												
+												
+											
+										</a>
+									</strong>
+						
+									
+								</div>
+							</td>
+							<td>
+								<div class="priceContainer" id="priceId25">
+									
+									
+										
+													
+													
+												<!-- ORC F --> 
+											
+													
+										
+						
+									
+									
+									
+										
+										
+										
+										
+										
+											
+											<p class="price">
+												from <span class="hotelPrice">$132</span>
+												<span class="currency"></span>
+											</p>
+															
+											
+												<p class="priceText">per room, per night</p>
+												
+											
+										
+										
+									
+									
+								</div>
+							</td>
+							
+								
+								
+									<td><div class="selectBtn ">
+										<span class="sysTxtBtn submit xxxs" onclick="top.location='/App/PrepareDetailedRateInfo?z=a1f0&r=9c&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=48787&divId=24';noEA(); return false;"  ><span class="btnTagDummy"><span><span><span><span><span class="label"><a href="/App/PrepareDetailedRateInfo?z=a1f0&r=9c&origin=hotel.results.viewhotelsearchresults.BOOK&roomTypeIndex=0&hotelEntryKey=48787&divId=24"  >Select</a></span></span></span></span></span></span></span>
+										
+											<p class="underButton"><img src="/site/img/icons/lowPriceGuaranteeOneLine.gif" alt="Low Price Guarantee"></p>
+										
+									</div></td>
+								
+							
+						</tr>
+					</table>
+				</div>
+				<div class="hotelSummary">
+					<div class="desc" id="descId25">
+						<!-- OSV 48819485 -->
+			
+						<div class="hotelPhoto">
+							
+								<a href="/App/ViewHotelDetails?z=a1f1&r=9d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=48787&divId=24&tabIndex=3" target="_top">
+							
+					
+							
+								
+									<img src="/public/pegsimages/CI/thumb_CA644.jpg" height="90" width="120" border="1"/></a>&nbsp;
+								
+								
+							
+						</div>
+			
+						<div class="descContainer">
+							<!-- ORT BPDXjsJZ51AOBH-->
+							
+							<p class="hotelDesc stars">
+								
+
+
+
+
+
+
+		
+	
+	
+		<a class="eaEnabled" href="/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false" target="_blank" onClick="return popUpGen('/pagedef/content/hotel/popupStarRatingGuide.jsp?popupsDisabled=false');" >
+								
+									<span class="starRating"><img src="/site/img/icons/stars/12px_2_fff.gif" alt="2 star rating"/></span>
+								
+								</a>
+	
+
+
+			
+								<span class="area">
+									
+										
+										
+											
+											
+											
+												
+													21 Howe Avenue,
+												
+												Sacramento, CA
+											
+											
+											
+										
+									
+								</span>
+							</p>
+							
+							
+			
+							<p class="hotelDesc">
+								Hotel offers indoor pool and hot tub, Business Center, Deluxe continental breakfast. Rooms feature Internet access and voice mail. Meeting rooms avaialable.</b></i>...
+								
+									<a href='/App/ViewHotelDetails?z=a1f1&r=9d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=48787&divId=24' target="_top">more</a>
+								
+							</p>
+			
+							<p class="hotelDesc links">
+								
+									<span><a 
+										id="details25" 
+										class="details" 
+										href="/App/ViewHotelDetails?z=a1f1&r=9d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=48787&divId=24" target="_top"><strong>Details</strong></a>&nbsp;|&nbsp;</span>
+								
+				
+								<span><a href='/App/ViewHotelDetails?z=a1f1&r=9d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=48787&divId=24&tabIndex=1' target="_top">
+								<strong>Map</strong></a>&nbsp;|&nbsp;</span>
+				
+								
+									<span class="hotelPhotos"><a href='/App/ViewHotelDetails?z=a1f1&r=9d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=48787&divId=24&tabIndex=3' target="_top">
+									<strong>Photos</strong></a>&nbsp;|&nbsp;</span>
+								
+								
+									<span class="hotelTours"><a href='/App/ViewHotelDetails?z=a1f1&r=9d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=48787&divId=24&tabIndex=3&selectTours=true' target="_top">
+									<strong>Tours</strong></a></span>
+								
+							</p>
+						</div>
+					</div>
+					<div class="reviews">
+						
+							<div class="userReviews" id="hasReview25">
+								<ul>
+									<li class="userScore"><strong>Customer Rating</strong></li>
+									
+										
+											<li class="scoreNumber"><span><strong>5.0</strong></span> out of 5</li>
+											<li><a href='/App/ViewHotelDetails?z=a1f1&r=9d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=48787&divId=24&tabIndex=5' target="_top">Read reviews</a></li>
+										
+										
+									
+								</ul>
+							</div>
+						
+			
+							
+					</div>
+				</div>
+				<div class="amenities">
+					<span class="amenitiesLink"><strong><a href='/App/ViewHotelDetails?z=a1f1&r=9d&origin=hotel.results.viewhotelsearchresults.DETAILS&hotelEntryKey=48787&divId=24&tabIndex=2' target="_top" class="noLink">Amenities</a></strong></span>
+			
+					<p class="amenitieLists">
+						
+							<span class="amenityContainer"><span class="amenity">Pool</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Pets OK</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Room service</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Restaurant</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity">Fitness room</span>|</span>
+						
+							<span class="amenityContainer"><span class="amenity unavailable">Smoke-free hotel</span></span>
+						
+					</p>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+		
+	
+</div>
+
+<script type="text/javascript">
+
+</script>
+<br class="clear" />
+		
+		
+	
+	
+
+	
+
+	
+		<div id="resultSetFooter">
+
+
+<div class="linksPreviousNext">
+	
+	
+		<ul class="horizontal-list next-prev">
+			<li class="first">
+				
+				
+				Previous
+				
+			</li>
+			<li>
+				
+				<a class="js" href="/App/PerformHotelSort?nextPage=true&z=a1f3&r=9f" onclick="return top.selectResultSet('n0s0','nextPage')">Next</a>
+				
+				
+			</li>
+		</ul>
+	
+	
+	
+	
+</div>
+
+</div>
+	
+	
+	<div class="resultBottom">
+		<p>
+			
+				
+			&nbsp;
+		</p>
+	</div>
+	<br class="clear" />
+	
+	<br class="clear" />
+
+	
+	
+	
+		<div class="disclaimer">
+		
+			
+			
+				Rates displayed reflect the average rate for selected dates. This rate is subject to change. Rates may not include service charges, extra person charges, fees or incidental charges (such as room service).
+			
+		
+		</div>
+		<div class="disclaimer">Converted rates (shown in parentheses) are provided for your convenience. They are based on today&#039;s exchange rate, but the hotel will charge you in the local currency.</div>
+		
+	
+	
+</div>
+
+
+
+<div id="resultsEnd">&nbsp;</div>
+
+<script language="javascript" type="text/javascript">
+if(parent.document.getElementById("AMENITY")){
+	
+		
+			parent.document.getElementById("AMENITY").style.display="none";
+		
+		
+	
+}
+	
+		resizeFrame();//bw
+	
+
+	/* conditional chooser for scroll in iframe */
+	var targetDiv = document.getElementById('result');
+	if(targetDiv != null) {
+		backButtonScroll(getElementPosition(targetDiv).top, true);
+	}
+</script>
+
+
+	
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+
+	
+
+
+<script type="text/javascript">
+	
+		
+		
+			// convert hiaFormData attribute JSON to formHIASubmit() call
+			hotelDetailsLinks = $("body").getElementsByAttribute('hiaFormData', 'A');
+			for (var i=0; i < hotelDetailsLinks.length; i++) {
+				hotelDetailsLinks[i].observe('click', function(event){
+					var linkElem = Event.findElement(event, "A");
+					var hiaFormData = eval('('+linkElem.getAttribute("hiaFormData")+')');
+					hiaFormData = $H(hiaFormData);
+					var functionParams = "'"+hiaFormData.remove("formName")+"', ";
+					functionParams = functionParams+"'"+hiaFormData.remove("formAction")+"'";
+					hiaFormData.each(function(pair) {
+						functionParams = functionParams+", '"+pair.key+"|"+pair.value+"'";
+					});
+					return eval("formHIASubmit("+functionParams+")");
+				});
+			}
+		
+	
+</script>
+
+
+
+
+<script type="text/javascript">	
+	function updateMatrix(){
+		parent.selectResultSet('n0s0','auto')
+	}
+	
+	//added to resolve bug 58119
+	function checkError(){
+		var errorMsg=false;
+		var pTag = parent.document.getElementById('errorMsg');
+		var warnMsg = parent.document.getElementById('warnMsg');
+		if(errorMsg==false){
+			if(pTag!=null){
+				pTag.className='errorInactive';
+			}else if(warnMsg!=null){
+				warnMsg.className='errorInactive';
+			}
+		}else{
+			if(pTag!=null){
+				pTag.className='error';
+			}else if(warnMsg!=null){
+				warnMsg.className='alert';
+			}
+		}
+	}
+	
+	resizeFrame();
+	updateMatrix();
+	//printVersion();
+	checkError();
+</script>
+
+
+
+	
+	
+	
+		
+	
+	
+

@@ -1,0 +1,34 @@
+"block");
+			mw_showHide("interactiveMap","block");
+			mw_showHide("currentTabClassicMap","none");
+			if(activeCurrentTabMapIndx == Id) return;
+			if(Id == 0) {showInteractiveGinsuMap("radar", interactiveMapRadZoom);activeMapLayer = "radar";}
+			if(Id == 1) {showInteractiveGinsuMap("ussat", interactiveMapSatZoom);activeMapLayer = "ussat";}// the interactive map page is only handling sat param.
+			
+		}else {
+			mw_showHide("mw_mapInMotionLink","none");
+			mw_showHide("interactiveMap","none");
+			mw_showHide("currentTabClassicMap","block");
+			if(activeCurrentTabMapIndx == Id) return;
+			imgReplace('classicMapImg',mw_currArray[Id].largeURL);
+		}
+		activeCurrentTabMapIndx = Id;
+	}
+	function setCurrentThumbnailStyle(id){
+		for(var i=0; i<4; i++){
+			if(i==id){
+				document.getElementById('CTT'+id).style.cursor='';
+				document.getElementById('CTL'+id).style.cursor='';
+				document.getElementById('CTT'+id).style.color = '';
+				document.getElementById('CTL'+id).style.textDecoration = "";
+			}else{
+				document.getElementById('CTT'+i).style.cursor='pointer';
+				document.getElementById('CTL'+i).style.cursor='pointer';
+				document.getElementById('CTT'+i).style.color = '#3333FF';
+				document.getElementById('CTL'+i).style.textDecoration = "underline";
+			}
+		}
+	}	
+	
+	function handleCurrentTabMapClick(){
+		if(activeCurrentTabMapIndx < 2) {/*this is handled by goToInteractiveMapPage() funct

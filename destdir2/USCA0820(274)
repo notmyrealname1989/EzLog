@@ -1,0 +1,12 @@
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+				<TR>
+					<TD BACKGROUND="http://image.weather.com/web/common/nav/map_button_off.gif" WIDTH="134" HEIGHT="18" BORDER="0" ALT="" CLASS="blkVerdanaText10" ALIGN="CENTER" VALIGN="MIDDLE"><A HREF="#" onClick="activateForecastDailyTab(0);showForecastTabDayMapfor(0);actionLib(11);return false;"><script>document.write(forecastTabDailyTabs[0])</script></A></TD>
+					<TD BACKGROUND="http://image.weather.com/web/common/nav/map_button_on.gif" WIDTH="134" HEIGHT="18" BORDER="0" ALT="" CLASS="whtVerdanaText10" ALIGN="CENTER" VALIGN="MIDDLE"><B><script>document.write(forecastTabDailyTabs[1])</script></B></TD>
+					<TD BACKGROUND="http://image.weather.com/web/common/nav/map_button_off.gif" WIDTH="134" HEIGHT="18" BORDER="0" ALT="" CLASS="blkVerdanaText10" ALIGN="CENTER" VALIGN="MIDDLE"><A HREF="#" onClick="activateForecastDailyTab(2);showForecastTabDayMapfor(2);actionLib(13);return false;"><script>document.write(forecastTabDailyTabs[2])</script></A></TD>
+				</TR>
+			</TABLE>
+			</div>
+			<div id="forecastTabDailyTab2" style="display:none">
+			<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+				<TR>
+					<TD BACKGROUND="http://image.weather.com/web/common/nav/map_button_off.gif" WIDTH="134" HEIGHT="18" BORDER="0" ALT="" CLASS="blkVerdanaText10" ALIGN="CENTER" VALIGN="MIDDLE"><A HREF="#" onClick="activateForecastDailyTab(0);showForecastTabDayMapfor(0);

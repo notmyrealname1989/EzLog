@@ -1,0 +1,14 @@
+hash["locname"]="";}if(typeof(omn_dmaCode)!='undefined'){mx_hash["dma"]=omn_dmaCode;}else{mx_hash["dma"]="";}if(typeof(omn_cityName)!='undefined'){mx_hash["city"]=omn_cityName;}else{mx_hash["city"]="";}if(typeof(omn_locstate)!='undefined'){mx_hash["state"]=omn_locstate;}else{mx_hash["state"]="";}if(typeof(omn_zipcode)!='undefined'){mx_hash["zipcode"]=omn_zipcode;}else{mx_hash["zipcode"]="";}if(typeof(omn_loccountry)!='undefined'){mx_hash["country"]=omn_loccountry;}else{mx_hash["country"]="";}if(typeof(omn_dmaCode)!='undefined'){mx_hash["dma"]=omn_dmaCode;}else{mx_hash["dma"]="";}var categoryID="";if(typeof(ts_level1)!=""){categoryID=mx_hash["level1"];}if(typeof(ts_level2)!=""){categoryID=categoryID+"-"+mx_hash["level2"];}if(typeof(ts_level3)!=""){categoryID=categoryID+"-"+mx_hash["level3"];}if(typeof(ts_level4)!=""){categoryID=categoryID+"-"+mx_hash["level4"];}mx_hash["category_id"]=categoryID;mx_hash["refurl"]=document.referrer;mx_hash["desturl"]=document.URL;mx_hash["rm_id"]=GetCookie("RMID");mx_hash["urs_id"]=getUserPreferences("2");if(typeof(gnSiteMode)!=""){mx_hash["sitemode"]=gnSiteMode;}else{mx_hash["sitemode"]="";}if(typeof(OAS_spoof)!='undefined'){mx_hash["oas_spoof"]=OAS_spoof;}else{mx_hash["oas_spoof"]="";}mx_hash["qstring_hash"]=queryString;if(GetCookie("partner")=="beta2"){mx_hash["beta_flag"]="beta";}else{mx_hash["beta_flag"]="prod";}if(typeof(fromParam)!='undefined'){mx_hash["from"]=fromParam;}else{mx_hash["from"]="";}</script>
+
+<SCRIPT LANGUAGE="JavaScript1.2">
+if ("USCA0820" != ""){
+		if ("" != ""){
+			setUserPreferences("11","USCA0820");
+			setUserPreferences("10","Pacific Grove, CA")}}
+</SCRIPT>
+
+
+
+            
+            <style type="text/css">
+			.resultsHeaderText{background-color:#C9D3E8;font-family:Arial,Verdana;font-size:11px;color:#455b73;padding:3px 5px 3px 5px;}.yesterdayTitle{background-color:#C9D3E8;font-family:Arial,Verdana;font-size:11px;color:#455b73;font-weight:bold;padding:5px 5px 5px 5px;width:100%;}.yesterdayCells{background-color:#C9D3E8;font-family:Arial,Verdana;font-size:11px;color:#455b73;padding:3px 11px 3px 11px;}.wkndButtonA{background-color:#9dAED4;}.wkndButtonB{background-color:#647AA9;}.bottomBorder{background-color:#647AA9;height:20px;padding:0px 0px 0px 11px;font-family:Arial,Verdana;font-size:10px;color:#FFFFFF;}.vbgA{background-color:#C9D3E8;}.vbgB{background-color:#9DAED4;}.vbgC{background-color:#647AA9;}.vbgE{background-color:#DDE5F5;}.locLinker{background-color:#DAE0F3;border-color:#ADA6D4;solid 1px;padding:10px;}.wxTrigger,.wxTrigger:link,.wxTrigger:visited,.wxTrigger:hover{color:#CD0706;font-size:10px;}.dtW{background-color:#9DAED4;height:18px;color:#95A0A5;}.dtA{background-color:#C9D3E8;height:18px;color:#95A0A5;}.dtB{background-color:#647AA9;height:18px;}.fbgA{background-color:#FFFFFF;border:solid;border-color:#CAD3A4;border-width:1px 1px 1px 1px;width:55

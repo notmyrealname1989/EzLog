@@ -1,0 +1,32 @@
+rSearch.q.value;
+		return true;
+    }
+</script>
+
+<form action="http://www.weather.com/search/partner" name="partnerSearch2" onSubmit="return checkPartner2();">
+<div id="yahoosearchbar">
+	<div class="c1">Search the Web</div>
+    <div class="c2"><input  name="Keywords" type="Text" class="yahooInput"></div>
+    <div class="c3"><input type="image" src="http://i.imwx.com/web/common/buttons/home_go_button.gif" class="yahooGoButton" name="Search" value=""></div>
+    <div class="c4"><span class="blkVerdanaText10">Powered By:<br/><img src="http://i.imwx.com/web/common/images/summer/yahoo.gif" ALT="logo"  ></span></div>
+</div>			
+</form>		
+<script LANGUAGE="JavaScript1.2">
+if (param('Keywords') && param('Keywords').length > 0)
+document.partnerSearch.Keywords.value = param('Keywords');
+</script>
+
+	<table cellpadding="0" cellspacing="0" id="ftrLinks">
+	<tr>		<td class="ftrBorder ftrPaddingR">							
+			<h3>Weather</h3>			
+									<p><A HREF="http://www.weather.com/common/drilldown/US/top100.html"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});"   >Top 100 Cities</A></p>
+					
+				
+									
+						
+									<p><A HREF="http://www.weather.com/outlook/weatherbystate"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});"   >Search by State</A></p>
+					
+				
+									
+						
+									<p>

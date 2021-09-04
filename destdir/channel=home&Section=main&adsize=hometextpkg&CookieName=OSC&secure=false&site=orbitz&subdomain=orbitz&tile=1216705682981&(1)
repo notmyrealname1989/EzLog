@@ -1,0 +1,13 @@
+var copy = 'Student? You can travel cheaper!';
+var price = 'Save';
+var url = 'http://www.studentuniverse.com/travel/orbitz_redirect?utm_source=orbitz+site&utm_medium=partner&utm_campaign=orbitz&utm_content=Quick+SU+YCTC';
+var target = '_top';
+// target is '_top' for internal links, '_blank' for external links
+//+++++++++++++++++++++++++++++++++++++
+
+var ad = '';
+ad += '<tr>\n';
+ad += '<td colspan="2"><a href="http://www.revresda.com/event.ng/Type=click&FlightID=43034&AdID=82647&TargetID=12156&Segments=65,3724,4979,5788,7409,8303,11004,11672,11700,12591,15155,19734,22067,22782,22849&Targets=10015,19558,16079,12156,12880&Values=30,46,51,63,82,93,100,194,216,264,32876,33113,33155,33177,33232,33242,33243,33244,33245,33263,33277,33279,33280,33292,33864,34137,34581,34630,34641,34960,35048,35050,35257,35587,54018,66797,67440&RawValues=&Redirect=' + url + '" target="' + target + '">' + copy + '</a></td>\n';
+ad += '<td><a href="http://www.revresda.com/event.ng/Type=click&FlightID=43034&AdID=82647&TargetID=12156&Segments=65,3724,4979,5788,7409,8303,11004,11672,11700,12591,15155,19734,22067,22782,22849&Targets=10015,19558,16079,12156,12880&Values=30,46,51,63,82,93,100,194,216,264,32876,33113,33155,33177,33232,33242,33243,33244,33245,33263,33277,33279,33280,33292,33864,34137,34581,34630,34641,34960,35048,35050,35257,35587,54018,66797,67440&RawValues=&Redirect=' + url + '" target="' + target + '">' + price + '</a></td>\n';
+ad += '</tr>\n';
+document.write(ad);

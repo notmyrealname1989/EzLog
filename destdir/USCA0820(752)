@@ -1,0 +1,28 @@
+rrentCount + 1;if(viewNumber > 3)viewNumber = -1;SetCookie ("fv", viewNumber,"", "/", ".weather.com");}}else{SetCookie ("fv", 1,"", "/", ".weather.com");}
+var gotFV = GetCookie("fv");if(gotFV.length>0){var findFv= oq.indexOf("vw=");if (findFv ==-1){oq=oq+"&vw="+gotFV;}else{oq=oq.substring(0,findFv) + "vw=" + gotFV;}}OAS_query=oq;}}}
+	
+var vsearch=paramValue('search');var upcookie=GetCookie("UserPreferences");if(upcookie>0&&vsearch!="search"){updateCookieExpDate("UserPreferences");updateCookieExpDate("RMID");}
+
+var customization_pathname = (window.location.pathname.indexOf("/weather/my")>=0)?1:0;
+if(customization_pathname==0){var myPrefsCookie=GetCookie("MyPrefs");if(myPrefsCookie.length>1){updateCookieUnescape("MyPrefs");}}
+
+//-->
+</script>
+<SCRIPT type="text/javascript">
+<!--
+OAS_version = 11;
+if (!isMinIE4 && !isMinIE5 && !isNS6 && !isMinNS4) OAS_version = 10;
+if (OAS_MJX_on){
+if (OAS_version >= 11) document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.a'+'ds/' + OAS_host + OAS_spoof + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');
+}
+//-->
+</script>
+<SCRIPT type="text/javascript">
+<!--
+function OAS_AD(pos) {(OAS_version >= 11) ? OAS_RICH(pos) : OAS_NORMAL(pos);}
+//-->
+</script>
+<script type="text/javascript">
+
+var query = new Object;
+function parse(){var pat_query=new RegExp('^[^\\?]+\\?(.*)$');if(

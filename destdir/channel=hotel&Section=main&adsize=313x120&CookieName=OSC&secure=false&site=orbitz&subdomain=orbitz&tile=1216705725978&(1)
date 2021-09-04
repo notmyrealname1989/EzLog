@@ -1,0 +1,29 @@
+document.write('');
+var imgSrc = '/Marketing/Images/ORB_htl_GamingDestCRU_313x120.jpg';
+var defaultHref = 'http://www.orbitz.com/event.ng/Type=click&FlightID=28326&AdID=69770&TargetID=12701&Segments=65,3724,4873,4979,5571,7409,8303,8781,11472,11531,11672,12591,15155,19734,22067,22782,22849&Targets=10015,19558,16079,12701&Values=30,46,51,63,82,93,100,196,216,264,31358,32876,33113,33155,33177,33232,33242,33243,33244,33245,33263,33277,33279,33280,33292,33864,34137,34402,34581,34641,34960,35048,35050,35257,35587,54018,66797,67440&RawValues=&Redirect=http://www.orbitz.com/App/PerformMDLPDealsContent?deal_id=gaming&cnt=PKH&type=120_ht';
+var defaultAltText = 'Top Gaming Destinations!';
+var altText1 = 'Las Vegas';
+var altText2 = 'Atlantic City';
+var altText3 = 'Reno';
+var altText4 = 'Biloxi';
+var linkHref1 = 'http://www.orbitz.com/event.ng/Type=link1&FlightID=28326&AdID=69770&TargetID=12701&Segments=65,3724,4873,4979,5571,7409,8303,8781,11472,11531,11672,12591,15155,19734,22067,22782,22849&Targets=10015,19558,16079,12701&Values=30,46,51,63,82,93,100,196,216,264,31358,32876,33113,33155,33177,33232,33242,33243,33244,33245,33263,33277,33279,33280,33292,33864,34137,34402,34581,34641,34960,35048,35050,35257,35587,54018,66797,67440&RawValues=&Redirect=http://www.orbitz.com/App/PerformMDLPDealsContent?deal_id=vegasvacation&cnt=PKH&type=120_ht';
+var linkHref2 = 'http://www.orbitz.com/event.ng/Type=link2&FlightID=28326&AdID=69770&TargetID=12701&Segments=65,3724,4873,4979,5571,7409,8303,8781,11472,11531,11672,12591,15155,19734,22067,22782,22849&Targets=10015,19558,16079,12701&Values=30,46,51,63,82,93,100,196,216,264,31358,32876,33113,33155,33177,33232,33242,33243,33244,33245,33263,33277,33279,33280,33292,33864,34137,34402,34581,34641,34960,35048,35050,35257,35587,54018,66797,67440&RawValues=&Redirect=http://www.orbitz.com/App/PerformSDLPDealsContent?deal_id=atlanticcity&cnt=HOT&type=120_ht';
+var linkHref3 = 'http://www.orbitz.com/event.ng/Type=link3&FlightID=28326&AdID=69770&TargetID=12701&Segments=65,3724,4873,4979,5571,7409,8303,8781,11472,11531,11672,12591,15155,19734,22067,22782,22849&Targets=10015,19558,16079,12701&Values=30,46,51,63,82,93,100,196,216,264,31358,32876,33113,33155,33177,33232,33242,33243,33244,33245,33263,33277,33279,33280,33292,33864,34137,34402,34581,34641,34960,35048,35050,35257,35587,54018,66797,67440&RawValues=&Redirect=http://www.orbitz.com/App/PerformSDLPDealsContent?deal_id=reno&cnt=HOT&type=120_ht';
+var linkHref4 = 'http://www.orbitz.com/event.ng/Type=link4&FlightID=28326&AdID=69770&TargetID=12701&Segments=65,3724,4873,4979,5571,7409,8303,8781,11472,11531,11672,12591,15155,19734,22067,22782,22849&Targets=10015,19558,16079,12701&Values=30,46,51,63,82,93,100,196,216,264,31358,32876,33113,33155,33177,33232,33242,33243,33244,33245,33263,33277,33279,33280,33292,33864,34137,34402,34581,34641,34960,35048,35050,35257,35587,54018,66797,67440&RawValues=&Redirect=http://cruises.orbitz.com/promotion/orbitz/casino/casino-cruising.asp';
+
+//++++do++not++edit++below++this++line++!!!!++++++++++++++++++++++++++++++++++++++++
+
+var centerSpot = ''
+centerSpot += '<img src="' + imgSrc + '" width="313" height="120" border="0" usemap="#gaming" alt="' + defaultAltText + '" />';
+centerSpot += '<map name="gaming">';
+centerSpot += '<area shape="rect" coords="0,31,79,119" href="' + linkHref1 + '" alt="' + altText1 + '" />';
+centerSpot += '<area shape="rect" coords="80,31,160,120" href="' + linkHref2 + '" alt="' + altText2 + '" />';
+centerSpot += '<area shape="rect" coords="161,32,238,120" href="' + linkHref3 + '" alt="' + altText3 + '" />';
+centerSpot += '<area shape="rect" coords="240,34,313,120" href="' + linkHref4 + '" alt="' + altText4 + '" />';
+centerSpot += '<area shape="default" coords="0,0,313,120" href="' + defaultHref + '" alt="' + defaultAltText + '" />';
+centerSpot += '</map>';
+
+document.write(centerSpot);
+
+
+document.write('');

@@ -1,0 +1,30 @@
+eremod"] != "undefined") {
+  s.prop34 = s.prop34 + ":" + mx_hash["localseveremod"];
+}
+if (mx_hash["severe"] != null && mx_hash["severe"] != "" && mx_hash["severe"] != "undefined") {
+  s.prop36 = mx_hash["severe"];
+}
+s.prop37=mx_hash["oas_context"];
+var rmid_2 = s.prop8.substring(8);
+var rmid_2_dec = parseInt(rmid_2,16);
+var dt = new Date();
+dt.setTime(rmid_2_dec * 1000);
+s.prop38 = (dt.getMonth()+1) + "-" + dt.getDate() +  "-" + dt.getFullYear();
+if (mx_hash["cobrand"] != null && mx_hash["cobrand"] != "" && mx_hash["cobrand"] != "cobrand") {
+s.prop45=mx_hash["cobrand"];
+}
+s.prop46=mx_hash["ad_category"];
+s.prop47=mx_hash["content_type"];
+s.prop48=mx_hash["ad_family"];
+s.prop49=mx_hash["ad_channel"];
+s.hier1=(mx_hash["level1"] + "-" + mx_hash["level2"] + "-" + mx_hash["level3"] + "-" + mx_hash["level4"] + "-" + mx_hash["level5"] + "-" + mx_hash["level6"]).toUpperCase();
+if (mx_hash["ad_category"] == "vertical") {
+s.hier2=(mx_hash["ad_family"] + "-" + mx_hash["ad_channel"] + "-" + mx_hash["level1"]).toUpperCase();
+}
+if (mx_hash["error_page"] != null && mx_hash["error_page"] != "" && mx_hash["error_page"] != "undefined") {
+s.pageType=mx_hash["error_page"];
+s.pageName="error:"+window.location.pathname;
+}
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="Ja

@@ -1,0 +1,11 @@
+.weather.com/services/weathergold.html?from=36hr_maps&refer=36hr_maps"><b>NEW!</b> Larger Radar & No Ads </A>
+						</div>
+					    <div id="mw_mapInMotionLink"><A HREF="#" onClick="goToInteractiveMapPage(true);return false">Weather in Motion</A>&reg;</div>
+					</div>
+			</div>
+			
+			<!-- Current Tab thumbnails with links -->
+			<div id="currentTabThumnail" style="display:block;margin: 5px;clear:both;">
+				<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH="100%">
+					<TR>
+						<TD id="CTT0" ALIGN="LEFT" WIDTH="25%" CLASS="blkVerdanaText10"><script>if (mw_currArray[0]) document.write('<IMG id="timg0" onClick="showCurrentTabMapfor(0);actionLib(5);return false" WIDTH="76" HEIGHT="56" BORDER="0" ALT="" name="mw_thumbZero">'); else 

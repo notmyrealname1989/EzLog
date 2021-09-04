@@ -1,0 +1,10 @@
+ent.writeln("<td id='hdM1' onmouseover='hdNav.up(1)' onmouseout='hdNav.down(1)'>Weather News</td>");
+			}
+		</script>		<td id="hdM2" onmouseover="hdNav.up(2)" onmouseout="hdNav.down(2)">Travel</td>				<td id="hdM3" onmouseover="hdNav.up(3)" onmouseout="hdNav.down(3)">Driving & Traffic</td>				<td id="hdM4" onmouseover="hdNav.up(4)" onmouseout="hdNav.down(4)">Healthy Living</td>				<td id="hdM5" onmouseover="hdNav.up(5)" onmouseout="hdNav.down(5)">Home & Family</td>				<td id="hdM6" onmouseover="hdNav.up(6)" onmouseout="hdNav.down(6)">Sports & Recreation</td>				<td id="hdM7" onmouseover="hdNav.up(7)" onmouseout="hdNav.down(7)">Climate &amp; Green</td>				<td id="hdM8" onmouseover="hdNav.up(8)" onmouseout="hdNav.down(8)">The Weather Channel TV</td>		
+
+
+<!-- begin the secondary navigation -->
+<div id="headerPipe2"></div>
+				</tr>
+            </table>		
+		<DIV id="hdMI0" class="navSecond navSecondDown" onmouseover="hdNav.up(0)" onmouseout="hdNav.down(0)">	<a id="home_weather.com_home" href="http://www.weather.com/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >weather.com home</a>					<a id="home_my_page" href="http://www.weather.com/weather/my/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >My Page</a>					<a id="home_weather.com_gold" href="http://www.weather.com/s

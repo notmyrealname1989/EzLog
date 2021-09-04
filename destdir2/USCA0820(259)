@@ -1,0 +1,29 @@
+		for (var pointX = minTile.x; pointX <= maxTile.x; pointX++) {
+			for (var pointY = minTile.y; pointY <= maxTile.y; pointY++) {
+				var tileURL = this.getTileURL(this.getTileName(new MapPane_Point(pointX, pointY), level), tileSet);
+				
+				tiles.push('<img src="',tileURL,'" ',
+							  'class="MapPane_Tile" ',
+							  'style="',
+								'top:',Math.floor(((pointY * wxtools.MapPane_tileSize) - centerXY.y) + (height / 2)),'px; ',
+								'left:',Math.floor(((pointX * wxtools.MapPane_tileSize) - centerXY.x) + (width / 2)),'px; ',
+								'width:',wxtools.MapPane_tileSize,'px; ',
+								'height:',wxtools.MapPane_tileSize,'px;" />');
+			}
+		}
+		tiles.push('</div>');
+		
+		return tiles.join('');
+	},
+	
+	addInterface:function(id, width, height, overlay) {
+		wxtools.MapPane_interfacesToAdd[id] = { width:width, height:height, overlay:overlay };
+	},
+	
+	// initiate a request for series list information that, when returned, will trigger rendering of the ginsu layer
+	addOverlay:function(id, center, width, height, level, overlay, transparency) {
+		if (wxtools.MapPane_debug) wxtools.log('MapPane.addOverlay(' + id + ',' + center + ',' + width + ',' + height + ',' + level + ',' + overlay + ',' + transparency + ')');
+		
+		// store the data needed to the rendering task
+		wxtools.MapPane_overlayTasks[id] = {
+			center: center,

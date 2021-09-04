@@ -1,0 +1,32 @@
+evel = "+ level);
+		var layer_width = Math.pow(2, level) * wxtools.MapPane_tileSize;
+		var top_left = new MapPane_Point(wxtools.MapPane_minLong, wxtools.MapPane_maxLat);
+		var bottom_right = new MapPane_Point(wxtools.MapPane_maxLong, wxtools.MapPane_minLat);
+		
+		return new MapPane_MercatorProjection(layer_width, layer_width, top_left, bottom_right);
+	},
+	
+	// generate a properly formatted timestamp string
+	getTimestampPresentation:function(timestampStr) {
+		if (wxtools.MapPane_debug) wxtools.log('MapPane.getTimestampPresentation(' + timestampStr + ')');
+		
+		if(!timestampStr) return '';
+		
+		var year = Number(timestampStr.substr(0,4));
+		var month = Number(timestampStr.substr(4,2)) - 1;
+		var day = Number(timestampStr.substr(6,2));
+		var hour = Number(timestampStr.substr(8,2));
+		var min = Number(timestampStr.substr(10,2));
+		
+		var utcDate = new Date(Date.UTC(year, month, day, hour, min));
+		var timestampPresentation = ['Updated ',utcDate.getDate(),' ',
+										wxtools.MapPane_months[utcDate.getMonth()],' ',
+										utcDate.getFullYear(),' ',
+										wxtools.MapPane_hours[utcDate.getHours()],':',
+										((String(utcDate.getMinutes()).length==1)?'0':''),utcDate.getMinutes(),' ',
+										(utcDate.getHours()>11)?'pm':'am',' Local Time'].join('');
+		return timestampPresentation;
+	},
+	
+	// returns the url of the given tile
+	getTileURL:function

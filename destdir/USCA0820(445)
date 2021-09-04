@@ -1,0 +1,8 @@
+<p id="ftrLegal"><span id="ftrCopyright">Copyright &copy; 1995-2008, The Weather Channel Interactive, Inc.</span> <span id="ftrLicensed">weather.com&reg; Licensed by TRUSTe | <a href="http://controlyourtv.org/" onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});">Parental TV Controls</a></span> <span id="ftrTerms"><a href="/common/home/legal.html" onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});">Terms of Service</a> | <a href="/common/home/privacy.html" onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});">Privacy Statement</a></span></p>
+<script type="text/javascript">
+if(typeof(OAS_listpos) == 'undefined' || OAS_listpos.indexOf("Hidden1") == -1){
+}else if(gnSiteMode!="severe" && gnSiteMode!="alert" && warningMode == false){
+	document.write('<DIV NAME="hiddenFooty1" STYLE="height:0px;width:0px;"><SCR'+'IPT>OAS_AD(\'Hidden1\')</SCR'+'IPT></DIV>');
+}
+</script>
+<script>if(typeof(OAS_listpos) == 'undefined' || OAS_listpos.indexOf("Hidden2") == -1){}else{document.write('<DIV NAME="hiddenFooty2" STYLE="height:0px;width:0px;"><SCR'+'IPT>OAS_AD(\'Hidden2\')</SCR'+'IPT></DIV>');}<

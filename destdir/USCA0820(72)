@@ -1,0 +1,63 @@
+.appendChild(tiles);
+		
+		var frame = tileContainer.nextSibling;
+		frame.className = 'MapPane_Frame';
+		frame.style.width = width + 'px';
+		frame.style.height = height + 'px';
+		
+		var updated = document.createElement('div');
+		updated.className = 'MapPane_Updated';
+		updated.style.top = (height - 26) + 'px';
+		updated.style.left = ((width / 2) - (wxtools.MapPane_updatedWidth / 2)) + 'px';
+		updated.innerHTML = getTimestampPresentation(timestamp);
+		
+		var icons = wxtools.MapPane_icons;
+		var legend = getIcon(icons[series].name, wxtools.MapPane_frameBuffer, width - (icons[series].width + wxtools.MapPane_frameBuffer), icons[series].width, icons[series].height);
+		
+		frame.appendChild(updated);
+		frame.appendChild(legend);
+	};
+}
+
+
+wxtools.MapPane_interfacesToAdd = {};
+if (window.addEventListener) {
+	window.addEventListener('load', wxtools.MapPane.addInterfaces, false);
+} else if (window.attachEvent) {
+	window.attachEvent('onload', wxtools.MapPane.addInterfaces);
+}
+
+
+// Alias the MapPane classes to global names outside of the wxtools context
+var MapPane_Point = wxtools.MapPane_Point;
+var MapPane_MercatorProjection = wxtools.MapPane_MercatorProjection;
+var MapPane = wxtools.MapPane;
+</script>
+
+
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript1.2">
+mw_intlBoolean = 0;
+var mw_currArray = new Array();
+var mw_fcstArray = new Array();
+
+function mw_props

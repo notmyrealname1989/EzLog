@@ -1,0 +1,21 @@
+rrow','Tomorrow Night'];
+</script>
+<DIV STYLE="position:relative;top:0px;">
+<a href="/common/help/citypageflashhelp.html" style="position:relative; top: 17px; left:353px; text-align:right;" onclick="return mapWindowOpen(this.href,'Help','width=466,height=490,resizable,scrollbars,nostatus')">What´s This?</a>	
+
+<table border="0" cellpadding="0" cellspacing="0" width="444" height="500">
+	<tr>
+		<td valign="top">
+			<div id="currentTab" style="display:block">
+				<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 width=268>
+					<TR>
+						<TD id="mapTopOn" WIDTH="134" HEIGHT="19" BORDER="0" ALT="" CLASS="whtVerdanaText10" ALIGN="CENTER" VALIGN="MIDDLE"><B>Current</B></TD>
+						<TD id="mapTopOff" WIDTH="134" HEIGHT="19" BORDER="0" ALT="" CLASS="blkVerdanaText10" ALIGN="CENTER" VALIGN="MIDDLE"><A HREF="#" onClick="activateForecastTab();actionLib(10);return false;">Forecast</A></TD>
+					</TR>
+				</TABLE>
+			</div>
+			<div id="fcstTab" style="display:none">
+				<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 width=268>
+					<TR>
+						<TD BACKGROUND="http://image.weather.com/web/common/nav/map_top_off.gif" WIDTH="134" HEIGHT="19" BORDER="0" ALT="" CLASS="blkVerdanaText10" ALIGN="CENTER" VALIGN="MIDDLE"><a HREF="#" onClick="activateCurrentTab();actionLib(9);return false;">Current</a></TD>
+						<TD BACKGROUND="http://image.weather.com/web/common/nav/map_top_on.gif" WIDTH="134" HEIGHT="19" BORDER="

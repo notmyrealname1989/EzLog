@@ -1,0 +1,37 @@
+ + ',' + y + ')');
+	
+	this.x = x;
+	this.y = y;
+};
+// These really need to be in Math!!!  Do you hear me W3C?
+wxtools.MapPane_Point.toRadians = function(degrees) { return degrees * (Math.PI / 180); };
+wxtools.MapPane_Point.toDegrees = function(radians) { return radians * (180 / Math.PI); };
+
+// How far is one point from another on the globe
+wxtools.MapPane_Point.geoDistance = function(pt1, pt2) {
+	if (wxtools.MapPane_debug) wxtools.log('Point.geoDistance(' + pt1 + ',' + pt2 + ')');
+	
+	var p1R = new MapPane_Point(MapPane_Point.toRadians(pt1.x), MapPane_Point.toRadians(pt1.y));
+	var p2R = new MapPane_Point(MapPane_Point.toRadians(pt2.x), MapPane_Point.toRadians(pt2.y));
+	var theta  = Math.cos(p1R.y) * Math.cos(p1R.x) * Math.cos(p2R.y) * Math.cos(p2R.x);
+	theta += Math.cos(p1R.y) * Math.sin(p1R.x) * Math.cos(p2R.y) * Math.sin(p2R.x);
+	theta += Math.sin(p1R.y) * Math.sin(p2R.y);
+	theta = Math.acos(theta);
+	return theta * 6367.3951;
+};
+
+wxtools.MapPane_Point.prototype = {
+	// make a new point just like this one
+	clone: function() {
+		if (wxtools.MapPane_debug) wxtools.log('Point.clone()');
+		
+		return new MapPane_Point(this.x, this.y);
+	},
+	// move this point by the given amount
+	offset: function(dx, dy) {
+		if (wxtools.MapPane_debug) wxtools.log('Point.offset(' + dx + ',' + dy + ')');
+		
+		this.x += dx;
+		this.y += dy;
+	},
+	// are these the same point

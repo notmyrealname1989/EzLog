@@ -1,0 +1,36 @@
+ght = wxtools.MapPane_tileSize + 'px';
+		
+		if (this.needTransparency() && timestamp != null) this.makeTransparent(newImage);
+		
+		return newImage;
+	},
+	
+	// create a new set of positioned image tiles wrapped in a parent DOM element
+	getTiles:function(center, width, height, level, tileSet) {
+		if (wxtools.MapPane_debug) wxtools.log('MapPane.getTiles(' + center + ',' + width + ',' + height + ',' + level + ',' + tileSet + ')');
+		
+		var projection = this.getProjection(level);
+		var centerXY = projection.project(center);
+		
+		var minTile = this.getMinTile(centerXY, width, height, level, projection);
+		var maxTile = this.getMaxTile(centerXY, width, height, level, projection);
+		
+		var tiles = docu
+1ff8
+ment.createElement('div');
+		tiles.className = 'MapPane_Tiles';
+		tiles.style.width = width + 'px';
+		tiles.style.height = height + 'px';
+		
+		for (var pointX = minTile.x; pointX <= maxTile.x; pointX++) {
+			for (var pointY = minTile.y; pointY <= maxTile.y; pointY++) {
+				var tileName = this.getTileName(new MapPane_Point(pointX, pointY), level);
+				var top = Math.floor(((pointY * wxtools.MapPane_tileSize) - centerXY.y) + (height / 2));
+				var left = Math.floor(((pointX * wxtools.MapPane_tileSize) - centerXY.x) + (width / 2));
+				
+				tileClip = this.getTile(tileName, tileSet, top, left);
+				
+				tiles.appendChild(tileClip);
+			}
+		}
+		return tiles;

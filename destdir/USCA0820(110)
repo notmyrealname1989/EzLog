@@ -1,0 +1,26 @@
+vascript">
+
+var isThisAMPDPage = (window.mpdData != null);
+	if (isThisAMPDPage)
+	{
+	  var isLocationInMode = isLocationMappedToRegionInMode();
+	  if(isLocationInMode)triggerMode();
+	}
+var videoCollection = paramValue('collection'); 
+if(videoCollection == "mostpopular" || videoCollection == "topstory"){
+	triggerMode();
+}		
+if(window.location.pathname.indexOf("/newscenter/") != -1 || window.location.pathname.indexOf("/maps/") != -1 ||
+	 window.location.pathname.indexOf("/blog/") != -1 || window.location.pathname.indexOf("/hurricanecentral/") != -1 ||
+	 	window.location.pathname == "/weather/map/interactive/") {
+	var isNewsCenter = (window.location.pathname.indexOf("/newscenter/")>=0)?1:0;
+	var isNewsCenterStories = (window.location.pathname.indexOf("/newscenter/stormstories")>=0)?1:0;
+	var isNewsCenterRoad = (window.location.pathname.in
+20e2
+dexOf("/newscenter/roadcrew")>=0)?1:0;
+	var isMaps = (window.location.pathname.indexOf("/maps/")>=0)?1:0;
+	var isTravelMaps = (window.location.pathname.indexOf("/activities/travel/vacationplanner/destination/maps/")>=0)?1:0;
+	var isTravelWxMaps= (window.location.pathname.indexOf("/activities/travel/vacationplanner/maps/")>=0)?1:0;
+	var isBlog = (window.location.pathname.indexOf("/blog/")>=0)?1:0;
+	var isHurricaneCentral = (window.location.pathname.indexOf("/hurricanecentral/")>=0)?1:0;
+	var isIMaps = (window.location.pathname == "/weather/map/i

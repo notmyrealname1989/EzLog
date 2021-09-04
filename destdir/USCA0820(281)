@@ -1,0 +1,37 @@
+yTab();
+		activeForecastTabDayIndx = indx;
+		mw_showHide("forecastTabDailyTab"+indx,"block");	
+	}
+	function deActivateForecastDailyTab(){
+		mw_showHide("forecastTabDailyTab0","none");
+		mw_showHide("forecastTabDailyTab1","none");	
+		mw_showHide("forecastTabDailyTab2","none");		
+	}
+
+	// util functions
+	function mw_showHide(id,action) {
+		if (document.getElementById) document.getElementById(id).style.display = action;
+	}		 
+	function goToInteractiveMapPage(animationFlag) {
+		if(animationFlag) animationFlag = "&animation=" + animationFlag;
+		else animationFlag = "";		
+		
+		var mapLayer = activeMapLayer;
+		if(mapLayer) mapLayer = "&interactiveMapLayer=" + mapLayer;
+		else mapLayer = "";
+		
+		var zoom = activeMapZoom;
+		if(zoom) zoom = "&zoom=" + zoom;
+		else zoom = "";
+		
+		if(isGold){					
+			window.location = "http://gold.weather.com/weather/wxgold/mymaps/USCA0820"  + "?from=36hr_maps"+ zoom + animationFlag + mapLayer;
+		}
+		else window.location = "/outlook/travel/businesstraveler/map/interactive/USCA0820"  + "?from=36hr_maps"+ zoom + mapLayer + animationFlag;
+	}	
+	function showInteractiveGinsuMap(satOrRadar, zoom){
+		activeMapZoom = zoom;
+		// remove all children from element to force the png transparency issue
+		var element = document.getElementById("interactiveMap");
+		while (element.firstChild) { element.removeChild(element.firstChild);}
+		document.getElementById("interactiveMap"

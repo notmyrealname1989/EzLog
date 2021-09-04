@@ -1,0 +1,35 @@
+' + projection + ',' + maxCoord + ',' + min + ')');
+		
+		var x_coord = Math.floor(tileXY.x / wxtools.MapPane_tileSize);
+		var y_coord = Math.floor(tileXY.y / wxtools.MapPane_tileSize);
+		
+		return new MapPane_Point(x_coord, y_coord);
+	},
+	
+	// determine the top left tile needed for this viewport
+	getMinTile:function(centerXY, width, height, level, projection) {
+		if (wxtools.MapPane_debug) wxtools.log('MapPane.getMinTile(' + centerXY + ',' + width + ',' + height + ',' + level + ',' + projection + ')');
+		
+		var offset = new MapPane_Point(width / 2, height / 2);
+		
+		var minXY = centerXY.decrement(offset);
+		var minTile = this.getTilePosition(minXY, level, projection.width, projection.height);
+		
+		if (minTile.x < 0) minTile.x = 0;
+		if (minTile.y < 0) minTile.y = 0;
+		
+		return minTile;
+	},
+	
+	// determine the bottom right tile needed for this viewport
+	getMaxTile:function(centerXY, width, height, level, projection) {
+		if (wxtools.MapPane_debug) wxtools.log('MapPane.getMaxTile(' + centerXY + ',' + width + ',' + height + ',' + level + ',' + projection + ')');
+		
+		var maxCoord = Math.pow(2, level) - 1;
+		var offset = new MapPane_Point(width / 2, height / 2);
+		
+		var maxXY = centerXY.increment(offset);
+		var maxTile = this.getTilePosition(maxXY, level, projection.width, projection.height);
+		
+		if (maxTile.x > maxCoord) maxTile.x = maxCoord;
+		if (

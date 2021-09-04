@@ -1,0 +1,27 @@
+_timeframe"] != null && mx_hash["pif_timeframe"] != "" && mx_hash["pif_timeframe"] != "undefined") {
+s.prop10=mx_hash["pif_timeframe"];
+}
+s.prop11=(mx_hash["level1"]+"-"+mx_hash["level2"]+"-"+mx_hash["level3"]+"-"+mx_hash["level4"]).toUpperCase();
+s.prop14=(mx_hash["level1"]+"-"+mx_hash["level2"]).toUpperCase();
+s.prop15=(mx_hash["level1"]+"-"+mx_hash["level2"]+"-"+mx_hash["level3"]).toUpperCase();
+s.prop16=mx_hash["wxcond"];
+s.prop17=mx_hash["detail"];
+s.prop19=mx_hash["declaration_state"];
+if (mx_hash["loctype"] != null && mx_hash["loctype"] != "" && mx_hash["loctype"] != "undefined") {
+s.prop22=mx_hash["loctype"] + ":" + mx_hash["locid"] + ":" + mx_hash["locname"];
+}
+s.prop23=mx_hash["oas_spoof"];
+if (mx_hash["city"] != null && mx_hash["city"] != "" && mx_hash["city"] != "undefined") {
+s.prop26=mx_hash["city"] + ":" + mx_hash["state"] + ":" + mx_hash["country"];
+}
+s.prop27=mx_hash["dma"];
+s.prop28=mx_hash["zipcode"];
+s.prop31=mx_hash["urg"].replace(/^\s+|\s+$/g,"");
+s.prop32=mx_hash["ura"].replace(/^\s+|\s+$/g,"");
+s.prop34="";
+if (mx_hash["severewxticker"] != null && mx_hash["severewxticker"] != "" && mx_hash["severewxticker"] != "undefined") {
+  s.prop34 = mx_hash["severewxticker"];
+} else if (mx_hash["pollenticker"] != null && mx_hash["pollenticker"] != "" && mx_hash["pollenticker"] != "undefined"){
+  s.prop34 = mx_hash["pollenticker"];
+}
+if (mx_hash
