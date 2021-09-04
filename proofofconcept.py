@@ -13,7 +13,7 @@ def ezlog(inputdir):
                 continue
              subprocess.run(["tshark", "-r",
                 os.path.join(inputdir, pcapFilename),
-                "-q", "-z", "io,stat,1", "--export-objects", "http,destdir2"],
+                "-q", "-z", "io,stat,1", "-z", "credentials", "--export-objects", "http,destdir2"],
                 stdout=outfile, check=True)
 
 def main():
