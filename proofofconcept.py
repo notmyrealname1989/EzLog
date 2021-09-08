@@ -24,7 +24,8 @@ def ezlog(inputdir):
     for filename in os.listdir(outputdir):
         process_list = ['jpg', 'png', 'gif', 'exe']
         for item in process_list:
-            if filename.endswith(item):
+            #filename = filename.lower()
+            if filename.endswith(item) or filename.endswith(item.upper()):
                 if not os.path.exists(f"/home/kali/ezlog/{outputdir}/{inputdir}_{item}"):
                     os.makedirs(f"/home/kali/ezlog/{outputdir}/{inputdir}_{item}")
                 if os.path.exists(f"/home/kali/ezlog/{outputdir}/{inputdir}_{item}"):
