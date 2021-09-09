@@ -26,17 +26,17 @@ def ezlog(inputdir):
         for item in process_list:
             #filename = filename.lower()
             if filename.endswith(item) or filename.endswith(item.upper()):
-                if not os.path.exists(f"/home/kali/ezlog/{outputdir}/{inputdir}_{item}"):
-                    os.makedirs(f"/home/kali/ezlog/{outputdir}/{inputdir}_{item}")
-                if os.path.exists(f"/home/kali/ezlog/{outputdir}/{inputdir}_{item}"):
+                if not os.path.exists(f"/home/kali/EzLog/{outputdir}/{inputdir}_{item}"):
+                    os.makedirs(f"/home/kali/EzLog/{outputdir}/{inputdir}_{item}")
+                if os.path.exists(f"/home/kali/EzLog/{outputdir}/{inputdir}_{item}"):
                # else:
-                    shutil.move(f"/home/kali/ezlog/{outputdir}/{filename}", f"/home/kali/ezlog/{outputdir}/{inputdir}_{item}")
+                    shutil.move(f"/home/kali/EzLog/{outputdir}/{filename}", f"/home/kali/EzLog/{outputdir}/{inputdir}_{item}")
 
 
 
                # variable_1 = f"{filename}"
-               # s.run(["mkdir", f"/home/kali/ezlog/{outputdir}/{inputdir}_{item}"])
-               # s.run(["mv", f"{variable_1}", f"/home/kali/ezlog/{outputdir}/{inputdir}_{item}"])
+               # s.run(["mkdir", f"/home/kali/EzLog/{outputdir}/{inputdir}_{item}"])
+               # s.run(["mv", f"{variable_1}", f"/home/kali/EzLog/{outputdir}/{inputdir}_{item}"])
             
             
 
