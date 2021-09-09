@@ -1,0 +1,9 @@
+</SCRIPT>
+<!-- Begin Six Links -->
+<DIV id="hbLinkBox" style="display:inline;text-decoration: none;">
+		<A href="http://www.weather.com/maps/" onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'gn_six_welcome'});" id="sixLinks1" class="hbLink">Maps</A><font class="sixlinkpipe"> |</font>
+		<A href="http://www.weather.com/multimedia/videoplayer.html" onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'collection':'topstory','from':'gn_six_welcome'});"  target="_blank" id="sixLinks2" class="hbLink">Video</A><font class="sixlinkpipe"> |</font>
+		<A href="http://www.weather.com/common/welcomepage/world.html" onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'gn_six_welcome'});" id="sixLinks3" class="hbLink">World</A><font class="sixlinkpipe"> |</font>
+		<A href="#" id="sixLinks5" class="hbLink" onclick="loadMobileWindow();">Mobile</A><font class="sixlinkpipe"> |</font>
+		<A href="http://www.weather.com/newscenter/alerts/national/severeWxAlertsNational.html" onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'cm_ven':'MKTG','cm_cat':'HousePromo','cm_pla':'globnav','cm_ite':'alerts','from':'gn_six_welcome'});" id="sixLinks6" class="hbLink">Alerts</A>
+</DI

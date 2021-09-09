@@ -1,0 +1,25 @@
+mand'){ lp = "/outlook/travel/businesstraveler/" + targetCmd + "/";if(loctype == 9){locid = tmpLocId;}
+    }else if (wh == 'Weather36HourVacationPlannerCommand'){ lp = "/outlook/travel/vacationplanner/" + targetCmd + "/";
+    }else if (wh == 'Weather36HourOutdoorsCommand'){ lp = "/outlook/recreation/outdoors/" + targetCmd + "/";
+    }else if (wh == 'Weather36HourFitnessCommand'){ lp = "/outlook/health/fitness/" + targetCmd + "/";
+    }else if (wh == 'Weather36HourHealthCommand'){ lp = "/outlook/health/general/" + targetCmd + "/";
+    }else if (wh == 'Weather36HourPetsCommand'){ lp = "/outlook/homeandgarden/pets/" + targetCmd + "/";}
+    document.location = WWW_host+lp+locid+"?lswe="+document.whatmenu.lswe.value+"&lwsa="+document.whatmenu.lswa.value+tstr+dayNum;
+    return false;
+  } else {
+    return true;
+  }
+  }else{
+  //INVALID VALUES......
+  }
+}
+</SCRIPT>
+<FORM name="whatmenu" action="" method="POST">
+<INPUT TYPE="hidden" NAME="what" VALUE="Weather36HourUndeclared">
+<input type="hidden" name="lswe" value="USCA0820" >
+<input type="hidden" name="lswa">
+<input type="hidden" name="search" value="search">
+<div class="selector">
+<img src="http://i.imwx.com/web/common/icons/planeicon.gif" width="12" height="14"/>&nbsp; 
+<select name="whatprefs" class="whatprefs" onchange="checkWhatForm('USCA0820','93950','1',this.options[this.selectedIndex].value);">
+	<option>See Weather Related to...

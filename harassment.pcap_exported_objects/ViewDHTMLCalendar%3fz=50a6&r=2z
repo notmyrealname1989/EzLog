@@ -1,0 +1,34 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style type="text/css">
+	@import url("/shared/css/calendar.css.jsp?cache=20041122");
+</style>
+
+<script type="text/javascript">
+function initCalDates() {
+
+	var mbDateToday = "July 22, 2008";
+	var mbDateMax = "June 17, 2009";
+
+	if ((!(mbDateToday.length)) || (!(mbDateMax.length))) {
+		var calBackupToday = new Date();
+		var calBackupMax = new Date();
+		mbDateToday = calBackupToday.toString();
+		calBackupMax.setTime(calBackupToday.getTime() + (330 * 86400 * 1000));
+		mbDateMax = calBackupMax.toString();
+	}
+
+	parent.calendar.init(window, document, document.getElementById('calendar'), mbDateToday, mbDateMax);
+}
+</script>
+
+</head>
+<body id="calendarBody"  class="hidden" onload="javascript:initCalDates();">
+	<div id="calendar">	</div>
+</body>
+</html>

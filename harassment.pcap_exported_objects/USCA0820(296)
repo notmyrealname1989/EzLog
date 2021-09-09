@@ -1,0 +1,25 @@
+rsiState = "";if(mx_hash["state"] != undefined){rsiState = mx_hash["state"];}
+var rsiDMA = "";if(mx_hash["dma"] != undefined){rsiDMA = mx_hash["dma"];}
+var rsiCat = "";if(mx_hash["category_id"] != undefined){rsiCat = mx_hash["category_id"];}
+rsiCatId = rsiConverter(rsiCat);
+DM_addToLoc("country",rsiCountry);
+DM_addToLoc("state",rsiState);
+DM_addToLoc("dma",rsiDMA);
+DM_addToLoc("beh_cat",rsiCatId);
+DM_cat(rsiCatId);
+DM_tag();
+/*document.write('<CENTER><BR><B><FONT COLOR="RED">TESTING MX_HASH---->THE BELOW CONTENT WILL BE REMOVED.</FONT></B>');
+document.write('<BR>MX_HASH <B>from</B> value = <B>'+mx_hash["from"]+'</B>');
+var testSplit = categorization.split("-");for (var i=0; i < testSplit.length; i++){val = i + 1;var level = "level"+val;
+document.write('<BR>MX_HASH <B>'+ level +' </B>value = <B>'+mx_hash[level]+'</B>');
+}
+document.write('</CENTER>');
+*/
+</script></div>
+
+</body>
+
+</HTML>
+
+0
+

@@ -1,0 +1,12 @@
+BLE>
+			</div>
+			<!-- / forecast links -->
+			
+			<!-- Forecast Tab thumbnails with links -->
+			<div id="forecastTabThumnail" style="display:none;margin: 5px;">
+				<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH="100%">
+					<TR>
+						<TD id="FTT0" onClick="showForecastTabMapTypefor(0);return false" ALIGN="LEFT" WIDTH="25%" CLASS="blkVerdanaText10"><script>if(gnSiteMode == 'normal'){if (mw_fcstArray[0][0]) document.write('<IMG SRC="'+mw_fcstArray[0][0].thumbURL+'" WIDTH="76" HEIGHT="56" BORDER="0" ALT="" name="mw_thumbZero">'); else document.write('<IMG SRC="http://image.weather.com/web/blank.gif" WIDTH="76" HEIGHT="56" BORDER="0" ALT="" name="mw_thumbZero">');}else{}</script><BR>
+						<span id="FTL0" onClick="showForecastTabMapTypefor(0);return false"><script>if (mw_fcstArray[0][0]) document.write(mw_fcstArray[0][0].presName)</script></span></TD>
+						<TD id="FTT1" onClick="showForecastTabMapTypefor(1);return false" ALIGN="LEFT" WIDTH="25%" CLASS="blkVerdanaText10"><script>if(gnSiteMode == 'normal'){if (mw_fcstArray[0][1]) document.write('<IMG SRC="'+mw_fcstArray[0][1].thumbURL+'" WIDTH="76" HEIGHT="56" BORDER="0" ALT="" name="mw_thumbOne">'); else document.write('<IMG SRC="http://image.weather.com/web/blank.gif" WIDTH="76" HEIGHT="56" BORDER="0" ALT="" name="mw_thumbOne">');}else{}</script> <BR>
+						<span id="FTL1" onClick="showForecastTabMapTypefor(1);return false" ><s

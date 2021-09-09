@@ -1,0 +1,51 @@
+?
+	equals: function(toCompare) {
+		if (wxtools.MapPane_debug) wxtools.log('Point.equals(' + toCompare + ')');
+		
+		return (toCompare.x == this.x) && (toCompare.y == this.y);
+	},
+	// make a new point this-v
+	decrement: function(v) {
+		if (wxtools.MapPane_debug) wxtools.log('Point.decrement(' + v + ')');
+		
+		return new MapPane_Point(this.x - v.x, this.y - v.y);
+	},
+	// make a new point this+v
+	increment: function(v) {
+		if (wxtools.MapPane_debug) wxtools.log('Point.increment(' + v + ')');
+		
+		return new MapPane_Point(this.x + v.x, this.y + v.y);
+	},
+	// eye-friendly description of the point
+	toString: function() {
+		if (wxtools.MapPane_debug) wxtools.log('Point.toString()');
+		
+		return "(x=" + this.x + ", y=" + this.y + ")";
+	}
+};
+
+
+
+
+
+
+
+
+
+
+/**
+ * MapPane_MercatorProjection
+ * this class handles all conversions between lat/long and the equivalent x/y coordinates
+ *  for a Mercator projection with the defined contants
+ */
+wxtools.MapPane_MercatorProjection = function(width, height, minXY, maxXY) {
+	if (wxtools.MapPane_debug) wxtools.log('MercatorProjection(' + width + ',' + height + ',' + minXY + ',' + maxXY + ')');
+	
+	this.width = width;
+	this.height = height;
+	
+	this.minXY = minXY.clone();
+	this.maxXY = maxXY.clone();
+	
+	this.minXY.y = MapPane_MercatorProjection.mercatorY(minXY.y);
+	this.maxXY.y = MapPane_MercatorProjection.mercat

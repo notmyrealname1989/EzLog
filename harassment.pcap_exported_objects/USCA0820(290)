@@ -1,0 +1,34 @@
+ ALT="logo"  ></span></div>
+</div>			
+</form>		
+<script LANGUAGE="JavaScript1.2">
+if (param('Keywords') && param('Keywords').length > 0)
+document.partnerSearch.Keywords.value = param('Keywords');
+</script>
+
+	<table cellpadding="0" cellspacing="0" id="ftrLinks">
+	<tr>		<td class="ftrBorder ftrPaddingR">							
+			<h3>Weather</h3>			
+									<p><A HREF="http://www.weather.com/common/drilldown/US/top100.html"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});"   >Top 100 Cities</A></p>
+					
+				
+									
+						
+									<p><A HREF="http://www.weather.com/outlook/weatherbystate"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});"   >Search by State</A></p>
+					
+				
+									
+						
+									<p><A HREF="http://www.weather.com/localguides/index.html"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});"   >Local Guides</A></p>
+					
+				
+									
+						
+									<p><A HREF="http://www.weather.com/encyclopedia/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});"   >Weather Encyclopedia</A></p>
+					
+1ff8
+
+				
+									
+						
+									<p><A HREF="http://www.weather.com/services/alerts/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'footer'});"   >Free W

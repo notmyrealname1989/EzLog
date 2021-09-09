@@ -1,0 +1,41 @@
++currLoc;
+		}
+	}
+</script>
+<CENTER>
+<IMG SRC="http://i.imwx.com/web/blank.gif" WIDTH=1 HEIGHT=1 BORDER=0 ID="alTrack" Style="position:absolute;top:0px;left:1px;">
+<script type="text/javascript">
+alU = 'http://misc.weather.com/common/tracking/';
+alCntr = 0;
+	function actionLib(actionID) {
+		alCntr++;
+		var rURL = alU + OAS_rns + '_' + alCntr + '/' + actionID + '.html';
+		document.getElementById("alTrack").src=rURL;
+	}
+</script>
+
+
+<!--Setting the season string to be used sitewide
+String season = "";
+season = summer; -->
+
+
+
+
+
+
+<!-- Last updated by: dwetteroth -->
+
+
+
+
+<SCRIPT LANGUAGE="JavaScript1.2">
+<!--
+if (document.referrer) {
+	thisDF = document.referrer;
+} else {
+	thisDF = "";
+}
+if (thisDF.search(/usatoday.com/) != -1) {
+	midstring = " contains ";
+	document.write ('<MAP NAME="weather_nav_Map"><AREA SHAPE="rect" ALT="" COORDS="657,0,768,27" HREF="http://asp.usatoday.com/weather/weatherfront.aspx"><AREA SHAPE="rect" ALT="" COORDS="536,0,652,27" HREF="http://www.usatoday.com/tech/front.htm"><AREA SHAPE="rect" ALT="" COORDS="418,0,534,27" HREF="http://www.usatoday.com/life/front.htm"><AREA SHAPE="rect" ALT="" COORDS="300,0,414,27" HREF="http://www.usatoday.com/sports/front.htm"><AREA SHAPE="rect" ALT="" COORDS="184,0,296,27" HREF="http://www.usatoday.com/money/front.htm"><AREA SHAPE="rect" ALT="" COORDS="67,0,180,27" HREF="http://www.usatoday.com/news/front.htm"><AR

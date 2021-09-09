@@ -1,0 +1,24 @@
+tUserPreferences(6,1);setUserPreferences(7,1);setUserPreferences(8,1);setUserPreferences(15,1);window.location.reload(forceGet=true);return false;');>Metric</a> ]");
+		}else{
+		  document.write("[ <a href='javascript:void();' onClick='setUserPreferences(5,0);setUserPreferences(6,0);setUserPreferences(7,0);setUserPreferences(8,0);setUserPreferences(15,0);window.location.reload(forceGet=true);return false;');>English</a> | Metric ]");
+		}
+  </script>
+</span>  </span></h2></div>
+        <div class="col2"><a href='/services/desktop.html?from=cclink1' target='_blank'>FREE Weather on Your Desktop</a></div>
+        <div class="clear_cell"></div>
+  </div>
+    <div id="wmContent">
+    	<div class="col1">
+        	<div class="currentCon">
+            	<div class="cImage"><img width="52" height="52" border="0" src="http://image.weather.com/web/common/wxicons/52/22.png?12122006" alt=""/><br/><strong class="obsTextA">Smoke</strong></div>
+              <div class="cCon"><strong class="obsTempTextA">56&deg;F</strong><br/>
+
+              <strong class="obsTextA">Feels Like<br/>56&deg;F</strong></div>
+              <div class="updated">Updated:  Jul 21 10:05 p.m. PT</div>
+            </div>       
+      </div>
+
+    	<div class="col2">
+			<div class="cCon2">
+				<div class="crow"><div class="crowli">UV Index:</div><div class="crowval">0 Low</div></div>
+                <div class="crow"><div cla

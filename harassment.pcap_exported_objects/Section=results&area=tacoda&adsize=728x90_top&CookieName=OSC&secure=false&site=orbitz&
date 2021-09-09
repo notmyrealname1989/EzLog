@@ -1,0 +1,3 @@
+document.write('<!-- Orbitz 728x90 Tag 2007-07-25 -->\n');
+document.write("<scr"+"ipt src='http://afe.specificclick.net?l=653196995&sz=728x90&wr=j&t=j&u="+escape(document.location)+"&r="+escape(document.referrer)+"'></scri"+"pt>");
+document.write('<NOSCRIPT>\n<A HREF=\"[default_href]\"> <IMG SRC=\"[default_img_src]\" WIDTH=728 HEIGHT=90 border=0 ALT=\"Click Here!\"></IMG></A>\n</NOSCRIPT>');

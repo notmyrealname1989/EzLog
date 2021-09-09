@@ -1,0 +1,30 @@
+}
+//-->
+</SCRIPT>
+
+		
+
+
+
+
+
+
+
+
+<IMG SRC="http://i.imwx.com/web/blank.gif" WIDTH=1 HEIGHT=2 alt="" border=0><br>
+<script src="http://j.imwx.com/common/urs/md5.js"></script>
+<script src="http://j.imwx.com/common/header/javascript/globalnav.js?10042006"></script>
+<TABLE cellpadding="0" cellspacing="0" border="0"><TR><TD><DIV id="parent">
+<!-- call server for data -->
+<script type="text/javascript">
+var getTwcLocId=getUserPreferences("11");
+var getHugmeLocationType=getUserPreferences("22");
+if (getTwcLocId && getTwcLocId!=" " && getHugmeLocationType && getHugmeLocationType!=" " && location.hostname.match("community.weather.com") == null){
+document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.2 SRC="http://www.weather.com/weather/mpdwcr/hugmedata"><\/script>');}
+if (location.hostname.match("community.weather.com") == null){document.write('<scr' + 'ipt type="text/javascript"src="http://j.imwx.com/common/header/javascript/hat.js"><\/script>');}
+</script>
+
+
+<!-- BEGIN THE PRIMARY NAVIGATION -->
+<script type="text/javascript" src="http://j.imwx.com/common/header/javascript/hd.js" ></script><DIV id="hbBannerMenuContainer">
+<DIV id="hdNavDiv" style=""><!--[if !IE]>  

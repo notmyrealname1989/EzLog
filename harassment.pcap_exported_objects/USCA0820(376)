@@ -1,0 +1,18 @@
+VerdanaText10" ALIGN="CENTER" VALIGN="MIDDLE"><A HREF="#" onClick="activateForecastTab();actionLib(10);return false;">Forecast</A></TD>
+					</TR>
+				</TABLE>
+			</div>
+			<div id="fcstTab" style="display:none">
+				<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 width=268>
+					<TR>
+						<TD BACKGROUND="http://image.weather.com/web/common/nav/map_top_off.gif" WIDTH="134" HEIGHT="19" BORDER="0" ALT="" CLASS="blkVerdanaText10" ALIGN="CENTER" VALIGN="MIDDLE"><a HREF="#" onClick="activateCurrentTab();actionLib(9);return false;">Current</a></TD>
+						<TD BACKGROUND="http://image.weather.com/web/common/nav/map_top_on.gif" WIDTH="134" HEIGHT="19" BORDER="0" ALT="" CLASS="whtVerdanaText10" ALIGN="CENTER" VALIGN="MIDDLE"><b>Forecast</b></TD>
+					</TR>
+				</TABLE>
+			</div>
+			
+			<!-- interactive map -->
+			<script language="JavaScript1.2">
+				document.write('<div ID="Bubblebar" style="position: absolute;top:0px;left:0px; visibility: hidden;z-index:10;" align="right"><table height="25" width="110"><tr><td style="background-color:#FFFFFF; padding:5px 2px 2px 6px; border:solid;border-width:1px 1px 1px 1px;border-color:#000000;" width="110" height="25" valign="top"><font style="font-family:verdana; font-size:10px;color:#333333;">Click to Interact!</font></td></tr></table></div>');				
+			</script>
+			<div id="interactiveMap" style="display:block;" onClick="goToInteractiveMapPage(false);retu

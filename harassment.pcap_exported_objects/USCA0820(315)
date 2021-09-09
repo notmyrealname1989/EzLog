@@ -1,0 +1,22 @@
+V>
+<!-- End Six Links -->
+<SCRIPT>
+if(isMaps)document.getElementById('sixLinks1').className = 'hbLinkonState';
+if(isVideo)document.getElementById('sixLinks2').className = 'hbLinkonState';
+if(isWorld)document.getElementById('sixLinks3').className = 'hbLinkonState';
+if(isMobile)document.getElementById('sixLinks5').className = 'hbLinkonState';
+if(isDownloads)document.getElementById('sixLinks6').className = 'hbLinkonState';
+function loadMobileWindow() {
+	window.open("http://www.weather.com/mobile/swap/send_sms_to_phone.html","myWin","scrollbars=no,width=450,height=480");
+	window.location = "http://www.weather.com/mobile/?from=gn_six_welcome";
+}
+</SCRIPT>
+<DIV id="hbSearchBox" style="display:inline;">
+<FORM ACTION="http://www.weather.com/search/enhanced" METHOD="get" NAME="whatwhere" onSubmit="return checkForm();">
+<INPUT TYPE="hidden" NAME="whatprefs" VALUE="">
+<INPUT TYPE="hidden" NAME="what" VALUE="WeatherLocalUndeclared">
+<INPUT TYPE="hidden" NAME="lswe">
+<INPUT TYPE="hidden" NAME="lswa">
+<INPUT TYPE="hidden" NAME="from" VALUE="searchbox">
+<SPAN id="hbSearchBoxFirst">Local</SPAN><IMG src="http://i.imwx.com/web/blank.gif" alt="" width="1" height="1"><SPAN id="hbSearchBoxSecond">weather</SPAN>&nbsp;<BR>				
+	<INPUT type="text" name="where" id="whatwhereForm" value="Enter zip or US/Intl city" style="width:150px;" onClick="MyLocation()" onMouseOver="" onKeyPress="MyLocationClose('whatwh

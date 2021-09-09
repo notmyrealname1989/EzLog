@@ -1,0 +1,10 @@
+!pat_query.test(location))return false;var array=pat_query.exec(location);query.QUERY_STRING=array[1];var params=query.QUERY_STRING.split(/&/);for(var i=0;i<params.length;i++){var keys=params[i].split(/=/);query[keys[0]]=unescape(keys[1]);}}
+function param(key){if(key==null){alert("param() function has been used incorrectly.\nUSAGE: param(key)");return false;}
+return query[key];}
+parse();
+</script>
+<script type="text/javascript">
+var pageName = new String(window.location.pathname);
+</script>
+<script type="text/javascript">var mx_hash=new
+ Object();mx_hash["cobrand"]=partnerCookie;if(typeof(ts_pagename)!='undefined'){mx_hash["pagename"]=ts_pagename;}else{mx_hash["pagename"]="";}if(typeof(ts_level1)!='undefined'){mx_hash["level1"]=ts_level1;}else{mx_hash["level1"]="UNCATEGORIZED";}if(typeof(ts_level2)!='undefined'){mx_hash["level2"]=ts_level2;}else{mx_hash["level2"]="";}if(typeof(ts_level3)!='undefined'){mx_hash["level3"]=ts_level3;}else{mx_hash["level3"]="";}if(typeof(ts_level4)!='undefined'){mx_hash["level4"]=ts_level4;}else{mx_hash["level4"]="";}if(typeof(ts_level5)!='undefined'){mx_hash["level5"]=ts_level5;}else{mx_hash["level5"]="";}if(typeof(ts_level6)!='undefined'){mx_hash["level6"]=ts_level6;}else{mx_hash["level6"]="";}if(typeof(ts_detail)!='undefined'){mx_hash["detail"]=ts_detail;}else{mx_hash["detail"]="";}if(typeof(ts_adCategory)!='undefined'){mx_hash["ad_category
