@@ -4,8 +4,9 @@ import sys
 import os
 import subprocess as s
 import shutil 
-
-
+import requests
+import re
+import numpy as np
 
 
 def ezlog(inputdir):
@@ -15,6 +16,8 @@ def ezlog(inputdir):
     final_path = outputdir + other_path
     pcap_credentials = f"{inputdir}_credentials.txt"
     pcap_smtp = f"{inputdir}_smtp.txt"
+    total_virus = f"{inputdir}_totalvirus.txt"
+    ip_doc = f"{inputdir}_ip_addresses.txt"
    # print(http_output)
    # if not os.path.exists("/home/kali/ezlog"):
        # os.makedirs("/home/kali/ezlog")
@@ -66,24 +69,42 @@ def ezlog(inputdir):
                     os.makedirs(f"/home/kali/ezlog/{outputdir}/{inputdir}_exported_objects/{inputdir}_{item}")
                 if os.path.exists(f"/home/kali/ezlog/{outputdir}/{inputdir}_exported_objects/{inputdir}_{item}"):
                     shutil.move(f"/home/kali/ezlog/{outputdir}/{other_path}/{filename}", f"/home/kali/ezlog/{outputdir}/{inputdir}_exported_objects/{inputdir}_{item}")
+    
+    with open(ip_doc, 'a') as outfile:
+       ip_src = s.run(["tshark", "-T", "fields", "-e", "ip.src", "-r", inputdir], stdout=outfile)
+       ip_dst = s.run(["tshark", "-T", "fields", "-e", "ip.dst", "-r", inputdir], stdout=outfile)
+       print(ip_src)
+       
+       
+    ip_set = set()
+    with open(ip_doc, 'r') as f:
+        for line in f:
+            ip_set.add(line.strip())
+
+
+    
+    print(ip_set)
+    
+
         
-        # else:
-               # if not os.path.exists(other_path):
-                #    os.makedirs(other_path)
-                #if os.path.exists(other_path):
-                    #shutil.move(other_files, other_path)
-                #    s.run(["mkdir", other_path])
-                 #   s.run(["mv", other_files, other_path])
-
-
-
-
-               # variable_1 = f"{filename}"
-               # s.run(["mkdir", f"/home/kali/EzLog/{outputdir}/{inputdir}_{item}"])
-               # s.run(["mv", f"{variable_1}", f"/home/kali/EzLog/{outputdir}/{inputdir}_{item}"])
+    
+        #ip = re.compile(r'(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)(\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9?)){3}')
+       # ip_pattern = re.compile(r'(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})')
+       # print(ip_pattern)
+       # print(type(ip_pattern))
+       # ip = ip_pattern.match(), s
+   # pcap_file = inputdir
+   # ip = []
+   # with open(pcap_file, encoding='latin-1') as p:
+        
+    #    for line in p:
             
+     #       ip = re.findall(r'(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)(\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}', line)
             
-
+   # print(ip)            
+            #requests.get(f"https://www.virustotal.com/api/v3/ip_addresses/{ip}", params={'x-apikey':'a349bd9c486abc665ba0f52fe8e6883e1b07e91aa4e0630cd304575f55bca952'})
+            
+       # shutil.move(total_virus, outputdir)
 
 def main():
     inputdir = sys.argv[1]
