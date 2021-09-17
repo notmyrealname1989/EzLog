@@ -32,29 +32,29 @@ def ezlog(inputdir):
        
 
     stuff = []
-    with open(pcap_credentials, 'r') as open_file:
+    with open( pcap_credentials, 'r') as open_file:
         for line in open_file:
             stuff.append(line)
     
     newstuff = [item for item in stuff if item != '\n']
 
-    with open(pcap_credentials, 'w') as open_file:
+    with open( pcap_credentials, 'w') as open_file:
         for item in newstuff:
                open_file.write(item)
-        shutil.move(pcap_credentials, outputdir)
+    shutil.move(pcap_credentials, outputdir)
         
-    with open(f"/home/kali/ezlog/{outputdir}/{pcap_credentials}", 'r') as open_file:
-        if os.stat(f"/home/kali/ezlog/{outputdir}/{pcap_credentials}").st_size == 0:
-            os.remove(f"/home/kali/ezlog/{outputdir}/{pcap_credentials}")
+    with open(f"{outputdir}/{pcap_credentials}", 'r') as open_file:
+        if os.stat(f"{outputdir}/{pcap_credentials}").st_size == 0:
+            os.remove(f"{outputdir}/{pcap_credentials}")
            
         
     with open(pcap_smtp,"w") as outfile:
         s.run(["tshark", "-Y", "smtp", "-r", inputdir], stdout=outfile, check=True)
         shutil.move(pcap_smtp, outputdir)
 
-    with open(f"/home/kali/ezlog/{outputdir}/{pcap_smtp}", 'r') as open_file:
-        if os.stat(f"/home/kali/ezlog/{outputdir}/{pcap_smtp}").st_size == 0:
-            os.remove(f"/home/kali/ezlog/{outputdir}/{pcap_smtp}")
+    with open(f"{outputdir}/{pcap_smtp}", 'r') as open_file:
+        if os.stat(f"{outputdir}/{pcap_smtp}").st_size == 0:
+            os.remove(f"{outputdir}/{pcap_smtp}")
 
    # os.rename("/home/kali/ezlog/destdir2", outputdir)
     
@@ -65,10 +65,10 @@ def ezlog(inputdir):
         for item in process_list:
             #filename = filename.lower()
             if filename.endswith(item) or filename.endswith(item.upper()):
-                if not os.path.exists(f"/home/kali/ezlog/{outputdir}/{inputdir}_exported_objects/{inputdir}_{item}"):
-                    os.makedirs(f"/home/kali/ezlog/{outputdir}/{inputdir}_exported_objects/{inputdir}_{item}")
-                if os.path.exists(f"/home/kali/ezlog/{outputdir}/{inputdir}_exported_objects/{inputdir}_{item}"):
-                    shutil.move(f"/home/kali/ezlog/{outputdir}/{other_path}/{filename}", f"/home/kali/ezlog/{outputdir}/{inputdir}_exported_objects/{inputdir}_{item}")
+                if not os.path.exists(f"{outputdir}/{inputdir}_exported_objects/{inputdir}_{item}"):
+                    os.makedirs(f"{outputdir}/{inputdir}_exported_objects/{inputdir}_{item}")
+                if os.path.exists(f"{outputdir}/{inputdir}_exported_objects/{inputdir}_{item}"):
+                    shutil.move(f"{outputdir}/{other_path}/{filename}", f"/home/kali/ezlog/{outputdir}/{inputdir}_exported_objects/{inputdir}_{item}")
     
     with open(ip_doc, 'a') as outfile:
        ip_src = s.run(["tshark", "-T", "fields", "-e", "ip.src", "-r", inputdir], stdout=outfile)
