@@ -16,7 +16,7 @@ def ezlog(inputdir):
     final_path = outputdir + other_path
     pcap_credentials = f"{inputdir}_credentials.txt"
     pcap_smtp = f"{inputdir}_smtp.txt"
-    total_virus = f"{inputdir}_totalvirus.txt"
+    total_virus = f"{inputdir}_virustotal.txt"
     ip_doc = f"{inputdir}_ip_addresses.txt"
    # print(http_output)
    # if not os.path.exists("/home/kali/ezlog"):
