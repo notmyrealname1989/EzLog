@@ -73,17 +73,28 @@ def ezlog(inputdir):
     with open(ip_doc, 'a') as outfile:
        ip_src = s.run(["tshark", "-T", "fields", "-e", "ip.src", "-r", inputdir], stdout=outfile)
        ip_dst = s.run(["tshark", "-T", "fields", "-e", "ip.dst", "-r", inputdir], stdout=outfile)
-       print(ip_src)
        
        
+    ip_set_final = set()   
     ip_set = set()
     with open(ip_doc, 'r') as f:
         for line in f:
             ip_set.add(line.strip())
+            for item in ip_set:
+                if item != '':
+                    ip_set_final.add(item)
+    os.remove(ip_doc)
 
 
-    
-    print(ip_set)
+    with open(total_virus, 'w') as outfile:
+        for item in ip_set_final:
+            s.run(["curl", "-s", "--request", "GET", "--url", f"https://www.virustotal.com/api/v3/ip_addresses/{item}", "--header", "x-apikey: a349bd9c486abc665ba0f52fe8e6883e1b07e91aa4e0630cd304575f55bca952"], stdout=outfile)
+        shutil.move(total_virus, outputdir)
+            #requests.get(f"https://www.virustotal.com/api/v3/ip_addresses/{ip}", params={'x-apikey':'a349bd9c486abc665ba0f52fe8e6883e1b07e91aa4e0630cd304575f55bca952'})
+
+
+
+
     
 
         
